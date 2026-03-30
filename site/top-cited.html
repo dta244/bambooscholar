@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Top Cited — BambooScholar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <a href="index.html" class="logo">BambooScholar</a>
+    <button class="nav-toggle" onclick="document.querySelector('.navbar nav').classList.toggle('open')">&#9776;</button>
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="fields.html">Fields</a>
+      <a href="institutions.html">Institutions</a>
+      <a href="top-cited.html" class="active">Top Cited</a>
+      <a href="methodology.html">Methodology</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1 class="page-title">Most Cited Papers</h1>
+    <p class="page-subtitle">Top 25 most-cited Vietnam-affiliated publications by lifetime citation count.</p>
+
+    <div class="card">
+      <table class="data-table" id="cited-table">
+        <thead>
+          <tr>
+            <th style="width:3rem">#</th>
+            <th>Title</th>
+            <th class="num" style="width:5rem">Year</th>
+            <th>Field</th>
+            <th class="num" style="width:7rem">Citations</th>
+            <th style="width:5rem">Link</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>BambooScholar &mdash; Data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>. Updated weekly.</p>
+  </footer>
+
+  <script>
+    const fmt = n => n != null ? n.toLocaleString() : '—';
+
+    async function loadData() {
+      const data = await fetch('data/top_cited.json').then(r => r.json());
+      const tbody = document.querySelector('#cited-table tbody');
+
+      data.forEach((paper, i) => {
+        const openalexUrl = paper.id || '#';
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td class="rank">${i + 1}</td>
+          <td><strong>${paper.title || 'Untitled'}</strong>
+            <div style="font-size:0.8rem;color:#616161;margin-top:0.25rem">
+              ${(paper.authors || []).slice(0, 3).map(a => a.name).join(', ')}${paper.authors && paper.authors.length > 3 ? ' et al.' : ''}
+            </div>
+          </td>
+          <td class="num">${paper.year || '—'}</td>
+          <td><span class="badge">${paper.field || '—'}</span></td>
+          <td class="num"><strong>${fmt(paper.cited_by_count)}</strong></td>
+          <td><a href="${openalexUrl}" target="_blank" rel="noopener">OpenAlex</a></td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    loadData().catch(console.error);
+  </script>
+</body>
+</html>

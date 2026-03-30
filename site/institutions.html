@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Institutions — BambooScholar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="navbar">
+    <a href="index.html" class="logo">BambooScholar</a>
+    <button class="nav-toggle" onclick="document.querySelector('.navbar nav').classList.toggle('open')">&#9776;</button>
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="fields.html">Fields</a>
+      <a href="institutions.html" class="active">Institutions</a>
+      <a href="top-cited.html">Top Cited</a>
+      <a href="methodology.html">Methodology</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1 class="page-title">Institutions</h1>
+    <p class="page-subtitle">Top 50 Vietnam-affiliated institutions by publication count. Note: one paper may count under multiple institutions.</p>
+
+    <div class="card">
+      <h2 class="card-title">Top 15 Institutions by Papers</h2>
+      <div class="chart-container">
+        <canvas id="chart-inst"></canvas>
+      </div>
+    </div>
+
+    <div class="card">
+      <h2 class="card-title">All Institutions</h2>
+      <table class="data-table" id="inst-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th data-sort="institution_name">Institution <span class="sort-arrow">&#9650;</span></th>
+            <th class="num" data-sort="paper_count">Papers <span class="sort-arrow">&#9650;</span></th>
+            <th class="num" data-sort="total_citations">Citations <span class="sort-arrow">&#9650;</span></th>
+            <th class="num" data-sort="avg_citations">Avg Cit/Paper <span class="sort-arrow">&#9650;</span></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>BambooScholar &mdash; Data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>. Updated weekly.</p>
+  </footer>
+
+  <script>
+    const fmt = n => n != null ? n.toLocaleString() : '—';
+
+    let instData = [];
+    let sortKey = 'paper_count';
+    let sortAsc = false;
+
+    function renderTable() {
+      const sorted = [...instData].sort((a, b) => {
+        const va = a[sortKey], vb = b[sortKey];
+        if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+        return sortAsc ? va - vb : vb - va;
+      });
+      const tbody = document.querySelector('#inst-table tbody');
+      tbody.innerHTML = '';
+      sorted.forEach((inst, i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td class="rank">${i + 1}</td>
+          <td>${inst.institution_name}</td>
+          <td class="num">${fmt(inst.paper_count)}</td>
+          <td class="num">${fmt(inst.total_citations || 0)}</td>
+          <td class="num">${inst.avg_citations || '—'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.querySelectorAll('#inst-table th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = th.dataset.sort;
+        if (sortKey === key) sortAsc = !sortAsc;
+        else { sortKey = key; sortAsc = false; }
+        document.querySelectorAll('#inst-table th').forEach(h => h.classList.remove('sorted'));
+        th.classList.add('sorted');
+        th.querySelector('.sort-arrow').textContent = sortAsc ? '\u25B2' : '\u25BC';
+        renderTable();
+      });
+    });
+
+    async function loadData() {
+      const data = await fetch('data/by_institution.json').then(r => r.json());
+      instData = data;
+      renderTable();
+
+      const top15 = data.slice(0, 15);
+      new Chart(document.getElementById('chart-inst'), {
+        type: 'bar',
+        data: {
+          labels: top15.map(i => i.institution_name),
+          datasets: [{
+            label: 'Papers',
+            data: top15.map(i => i.paper_count),
+            backgroundColor: '#1a6b3c',
+            borderRadius: 4,
+          }],
+        },
+        options: {
+          responsive: true,
+          indexAxis: 'y',
+          scales: { x: { beginAtZero: true } },
+          plugins: { legend: { display: false } },
+        },
+      });
+    }
+
+    loadData().catch(console.error);
+  </script>
+</body>
+</html>

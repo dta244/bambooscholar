@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Methodology — BambooScholar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <a href="index.html" class="logo">BambooScholar</a>
+    <button class="nav-toggle" onclick="document.querySelector('.navbar nav').classList.toggle('open')">&#9776;</button>
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="fields.html">Fields</a>
+      <a href="institutions.html">Institutions</a>
+      <a href="top-cited.html">Top Cited</a>
+      <a href="methodology.html" class="active">Methodology</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1 class="page-title">Methodology</h1>
+    <p class="page-subtitle">How we count publications and citations for Vietnamese research output.</p>
+
+    <div class="card">
+      <h2 class="card-title">Counting Rule</h2>
+      <p>A publication is counted as Vietnamese-affiliated if <strong>at least one author</strong> lists an institution in Vietnam (<code>authorships.institutions.country_code: VN</code>) in the OpenAlex database.</p>
+      <p style="margin-top:0.75rem">Citation counts use the <code>cited_by_count</code> field from each matching work, representing lifetime citations indexed by OpenAlex.</p>
+    </div>
+
+    <div class="card">
+      <h2 class="card-title">Document Types</h2>
+      <p>All OpenAlex work types are included (articles, reviews, conference papers, book chapters, etc.). This provides the broadest coverage of Vietnamese research output.</p>
+    </div>
+
+    <div class="card">
+      <h2 class="card-title">Data Source</h2>
+      <p><strong>OpenAlex</strong> — a free, open catalog of the global research system. OpenAlex indexes over 250 million works from multiple sources including Crossref, PubMed, institutional repositories, and more.</p>
+      <p style="margin-top:0.75rem"><strong>Update schedule:</strong> Every Monday at 08:00 UTC via GitHub Actions.</p>
+      <p style="margin-top:0.75rem" id="last-updated"></p>
+    </div>
+
+    <div class="card">
+      <h2 class="card-title">Field Classification</h2>
+      <p>Each work is assigned to exactly one field via OpenAlex's <code>primary_topic.field</code>. This prevents double-counting across disciplines — the sum of all field counts equals the national total.</p>
+    </div>
+
+    <div class="card">
+      <h2 class="card-title">Known Limitations</h2>
+      <ul style="margin-top:0.5rem;padding-left:1.5rem;line-height:2">
+        <li><strong>Diaspora effect:</strong> Only research produced <em>within Vietnam</em> is captured. Globally prominent scholars of Vietnamese descent at international institutions are not counted unless they also list a Vietnamese affiliation.</li>
+        <li><strong>Institution double-counting:</strong> A paper co-authored by researchers at two different Vietnamese institutions counts once per institution. National totals use deduplication by work ID; institution-level totals do not.</li>
+        <li><strong>Author truncation:</strong> OpenAlex truncates authorship lists at 100 entries. First-author checks are safe (position 0 is always present), but middle/last positions may be affected for mega-authored papers.</li>
+        <li><strong>Citation lag:</strong> Newly published papers take weeks to months to accumulate citations. Recent-year citation totals will be underestimates.</li>
+        <li><strong>Coverage gaps:</strong> OpenAlex does not index all grey literature, some conference-only venues, or certain predatory journals. Counts will differ from Scopus or Web of Science.</li>
+        <li><strong>counts_by_year vs cited_by_count:</strong> These fields may not sum identically due to OpenAlex indexing updates.</li>
+      </ul>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>BambooScholar &mdash; Data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>. Updated weekly.</p>
+  </footer>
+
+  <script>
+    fetch('data/summary.json')
+      .then(r => r.json())
+      .then(s => {
+        document.getElementById('last-updated').innerHTML =
+          `<strong>Last data update:</strong> ${s.last_updated} &mdash; ${s.total_papers.toLocaleString()} papers indexed.`;
+      })
+      .catch(() => {});
+  </script>
+</body>
+</html>

@@ -1,0 +1,75 @@
+name: Weekly Data Update
+
+on:
+  schedule:
+    - cron: '0 8 * * 1'    # Every Monday 08:00 UTC
+  workflow_dispatch:         # Manual trigger
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run OpenAlex updater
+        env:
+          OPENALEX_API_KEY: ${{ secrets.OPENALEX_API_KEY }}
+        run: python scripts/update_data.py
+
+      - name: Validate JSON outputs
+        run: |
+          python -c "
+          import json, sys
+
+          files = ['data/summary.json','data/by_field.json','data/by_institution.json','data/by_year.json']
+          for f in files:
+              data = json.load(open(f))
+              print(f'Valid JSON: {f}')
+
+          summary = json.load(open('data/summary.json'))
+          if summary.get('total_papers', 0) == 0:
+              print('ERROR: total_papers is 0. Aborting deployment.')
+              sys.exit(1)
+          print(f'Validation passed: {summary[\"total_papers\"]:,} papers')
+          "
+
+      - name: Commit updated data
+        run: |
+          git config user.name "BambooScholar Bot"
+          git config user.email "bot@bambooscholar.io"
+          git add data/
+          git diff --staged --quiet || git commit -m "chore: weekly data update $(date -u +%Y-%m-%d)"
+          git push
+
+      - name: Copy data into site for deployment
+        run: cp -r data/ site/data/
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

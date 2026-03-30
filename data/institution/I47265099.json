@@ -1,0 +1,136 @@
+{
+  "institution_id": "https://openalex.org/I47265099",
+  "institution_name": "Ho Chi Minh City University of Technology",
+  "fields": [
+    {
+      "field_id": "https://openalex.org/fields/22",
+      "field_name": "Engineering",
+      "paper_count": 5263
+    },
+    {
+      "field_id": "https://openalex.org/fields/17",
+      "field_name": "Computer Science",
+      "paper_count": 2463
+    },
+    {
+      "field_id": "https://openalex.org/fields/23",
+      "field_name": "Environmental Science",
+      "paper_count": 1257
+    },
+    {
+      "field_id": "https://openalex.org/fields/25",
+      "field_name": "Materials Science",
+      "paper_count": 878
+    },
+    {
+      "field_id": "https://openalex.org/fields/27",
+      "field_name": "Medicine",
+      "paper_count": 520
+    },
+    {
+      "field_id": "https://openalex.org/fields/16",
+      "field_name": "Chemistry",
+      "paper_count": 506
+    },
+    {
+      "field_id": "https://openalex.org/fields/11",
+      "field_name": "Agricultural and Biological Sciences",
+      "paper_count": 497
+    },
+    {
+      "field_id": "https://openalex.org/fields/21",
+      "field_name": "Energy",
+      "paper_count": 469
+    },
+    {
+      "field_id": "https://openalex.org/fields/14",
+      "field_name": "Business, Management and Accounting",
+      "paper_count": 365
+    },
+    {
+      "field_id": "https://openalex.org/fields/13",
+      "field_name": "Biochemistry, Genetics and Molecular Biology",
+      "paper_count": 316
+    },
+    {
+      "field_id": "https://openalex.org/fields/33",
+      "field_name": "Social Sciences",
+      "paper_count": 292
+    },
+    {
+      "field_id": "https://openalex.org/fields/18",
+      "field_name": "Decision Sciences",
+      "paper_count": 266
+    },
+    {
+      "field_id": "https://openalex.org/fields/19",
+      "field_name": "Earth and Planetary Sciences",
+      "paper_count": 240
+    },
+    {
+      "field_id": "https://openalex.org/fields/20",
+      "field_name": "Economics, Econometrics and Finance",
+      "paper_count": 119
+    },
+    {
+      "field_id": "https://openalex.org/fields/15",
+      "field_name": "Chemical Engineering",
+      "paper_count": 115
+    },
+    {
+      "field_id": "https://openalex.org/fields/31",
+      "field_name": "Physics and Astronomy",
+      "paper_count": 99
+    },
+    {
+      "field_id": "https://openalex.org/fields/26",
+      "field_name": "Mathematics",
+      "paper_count": 95
+    },
+    {
+      "field_id": "https://openalex.org/fields/29",
+      "field_name": "Nursing",
+      "paper_count": 74
+    },
+    {
+      "field_id": "https://openalex.org/fields/32",
+      "field_name": "Psychology",
+      "paper_count": 69
+    },
+    {
+      "field_id": "https://openalex.org/fields/28",
+      "field_name": "Neuroscience",
+      "paper_count": 67
+    },
+    {
+      "field_id": "https://openalex.org/fields/12",
+      "field_name": "Arts and Humanities",
+      "paper_count": 62
+    },
+    {
+      "field_id": "https://openalex.org/fields/30",
+      "field_name": "Pharmacology, Toxicology and Pharmaceutics",
+      "paper_count": 59
+    },
+    {
+      "field_id": "https://openalex.org/fields/36",
+      "field_name": "Health Professions",
+      "paper_count": 40
+    },
+    {
+      "field_id": "https://openalex.org/fields/24",
+      "field_name": "Immunology and Microbiology",
+      "paper_count": 24
+    },
+    {
+      "field_id": "https://openalex.org/fields/35",
+      "field_name": "Dentistry",
+      "paper_count": 17
+    },
+    {
+      "field_id": "https://openalex.org/fields/34",
+      "field_name": "Veterinary",
+      "paper_count": 16
+    }
+  ]
+}

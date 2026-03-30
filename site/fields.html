@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fields — BambooScholar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="navbar">
+    <a href="index.html" class="logo">BambooScholar</a>
+    <button class="nav-toggle" onclick="document.querySelector('.navbar nav').classList.toggle('open')">&#9776;</button>
+    <nav>
+      <a href="index.html">Dashboard</a>
+      <a href="fields.html" class="active">Fields</a>
+      <a href="institutions.html">Institutions</a>
+      <a href="top-cited.html">Top Cited</a>
+      <a href="methodology.html">Methodology</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1 class="page-title">Research Fields</h1>
+    <p class="page-subtitle">Vietnamese publications and citations broken down by OpenAlex field classification.</p>
+
+    <!-- Charts -->
+    <div class="chart-row">
+      <div class="card">
+        <h2 class="card-title">Papers by Field</h2>
+        <div class="chart-container">
+          <canvas id="chart-papers"></canvas>
+        </div>
+      </div>
+      <div class="card">
+        <h2 class="card-title">Citations by Field</h2>
+        <div class="chart-container">
+          <canvas id="chart-citations"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Table -->
+    <div class="card">
+      <h2 class="card-title">All Fields</h2>
+      <table class="data-table" id="fields-table">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th data-sort="field_name">Field <span class="sort-arrow">&#9650;</span></th>
+            <th class="num" data-sort="paper_count">Papers <span class="sort-arrow">&#9650;</span></th>
+            <th class="num" data-sort="total_citations">Citations <span class="sort-arrow">&#9650;</span></th>
+            <th class="num" data-sort="avg_citations">Avg Cit/Paper <span class="sort-arrow">&#9650;</span></th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>BambooScholar &mdash; Data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>. Updated weekly.</p>
+  </footer>
+
+  <script>
+    const fmt = n => n != null ? n.toLocaleString() : '—';
+    const colors = ['#1a6b3c','#2e7d32','#388e3c','#43a047','#4caf50','#66bb6a','#81c784','#a5d6a7','#c8e6c9','#e8f5e9',
+                    '#1b5e20','#33691e','#558b2f','#689f38','#7cb342','#8bc34a','#9ccc65','#aed581','#c5e1a5','#dcedc8'];
+
+    let fieldData = [];
+    let sortKey = 'paper_count';
+    let sortAsc = false;
+
+    function renderTable() {
+      const sorted = [...fieldData].sort((a, b) => {
+        const va = a[sortKey], vb = b[sortKey];
+        if (typeof va === 'string') return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+        return sortAsc ? va - vb : vb - va;
+      });
+      const tbody = document.querySelector('#fields-table tbody');
+      tbody.innerHTML = '';
+      sorted.forEach((f, i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td class="rank">${i + 1}</td>
+          <td>${f.field_name}</td>
+          <td class="num">${fmt(f.paper_count)}</td>
+          <td class="num">${fmt(f.total_citations || 0)}</td>
+          <td class="num">${f.avg_citations || '—'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    document.querySelectorAll('#fields-table th[data-sort]').forEach(th => {
+      th.addEventListener('click', () => {
+        const key = th.dataset.sort;
+        if (sortKey === key) sortAsc = !sortAsc;
+        else { sortKey = key; sortAsc = false; }
+        document.querySelectorAll('#fields-table th').forEach(h => h.classList.remove('sorted'));
+        th.classList.add('sorted');
+        th.querySelector('.sort-arrow').textContent = sortAsc ? '\u25B2' : '\u25BC';
+        renderTable();
+      });
+    });
+
+    async function loadData() {
+      const data = await fetch('data/by_field.json').then(r => r.json());
+      fieldData = data;
+      renderTable();
+
+      // Papers chart
+      const top15 = data.slice(0, 15);
+      new Chart(document.getElementById('chart-papers'), {
+        type: 'bar',
+        data: {
+          labels: top15.map(f => f.field_name),
+          datasets: [{
+            label: 'Papers',
+            data: top15.map(f => f.paper_count),
+            backgroundColor: colors.slice(0, 15),
+            borderRadius: 4,
+          }],
+        },
+        options: {
+          responsive: true,
+          indexAxis: 'y',
+          scales: { x: { beginAtZero: true } },
+          plugins: { legend: { display: false } },
+        },
+      });
+
+      // Citations chart
+      const byCit = [...data].sort((a, b) => (b.total_citations || 0) - (a.total_citations || 0)).slice(0, 15);
+      new Chart(document.getElementById('chart-citations'), {
+        type: 'bar',
+        data: {
+          labels: byCit.map(f => f.field_name),
+          datasets: [{
+            label: 'Citations',
+            data: byCit.map(f => f.total_citations || 0),
+            backgroundColor: '#f9a825',
+            borderRadius: 4,
+          }],
+        },
+        options: {
+          responsive: true,
+          indexAxis: 'y',
+          scales: { x: { beginAtZero: true } },
+          plugins: { legend: { display: false } },
+        },
+      });
+    }
+
+    loadData().catch(console.error);
+  </script>
+</body>
+</html>

@@ -1,0 +1,900 @@
+[
+  {
+    "id": "https://openalex.org/W2477872031",
+    "title": "Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)",
+    "year": 2002,
+    "cited_by_count": 12223,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Scott M. Grundy",
+        "institutions": []
+      },
+      {
+        "name": "Diane M. Becker",
+        "institutions": []
+      },
+      {
+        "name": "Luther T. Clark",
+        "institutions": []
+      },
+      {
+        "name": "Richard Cooper",
+        "institutions": []
+      },
+      {
+        "name": "Margo A. Denke",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2951464304",
+    "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
+    "year": 2017,
+    "cited_by_count": 10543,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "authors": [
+      {
+        "name": "Diep Thi Hoang",
+        "institutions": [
+          "Vietnam National University, Hanoi"
+        ]
+      },
+      {
+        "name": "Olga Chernomor",
+        "institutions": [
+          "University of Vienna",
+          "Max Perutz Labs"
+        ]
+      },
+      {
+        "name": "Arndt von Haeseler",
+        "institutions": [
+          "Max Perutz Labs",
+          "University of Vienna"
+        ]
+      },
+      {
+        "name": "Bùi Quang Minh",
+        "institutions": [
+          "Max Perutz Labs",
+          "University of Vienna"
+        ]
+      },
+      {
+        "name": "Lê Sỹ Vinh",
+        "institutions": [
+          "Vietnam National University, Hanoi"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2131222241",
+    "title": "The global distribution and burden of dengue",
+    "year": 2013,
+    "cited_by_count": 9995,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Samir Bhatt",
+        "institutions": [
+          "University of Oxford"
+        ]
+      },
+      {
+        "name": "Peter W. Gething",
+        "institutions": [
+          "University of Oxford"
+        ]
+      },
+      {
+        "name": "Oliver J. Brady",
+        "institutions": [
+          "University of Oxford"
+        ]
+      },
+      {
+        "name": "Jane P. Messina",
+        "institutions": [
+          "University of Oxford"
+        ]
+      },
+      {
+        "name": "Andrew Farlow",
+        "institutions": [
+          "University of Oxford"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2008869160",
+    "title": "Obesity is associated with macrophage accumulation in adipose tissue",
+    "year": 2003,
+    "cited_by_count": 8580,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Stuart P. Weisberg",
+        "institutions": []
+      },
+      {
+        "name": "Daniel McCann",
+        "institutions": []
+      },
+      {
+        "name": "Manisha Desai",
+        "institutions": [
+          "Cancer Research And Biostatistics"
+        ]
+      },
+      {
+        "name": "Michael Rosenbaum",
+        "institutions": []
+      },
+      {
+        "name": "Rudolph L. Leibel",
+        "institutions": [
+          "Columbia University",
+          "General Department of Preventive Medicine"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2108790161",
+    "title": "Heart disease and stroke statistics--2015 update: a report from the American Heart Association.",
+    "year": 2015,
+    "cited_by_count": 8333,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Dariush Mozaffarian",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": []
+      },
+      {
+        "name": "Donna K. Arnett",
+        "institutions": []
+      },
+      {
+        "name": "Michael J. Blaha",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W4249727000",
+    "title": "Obesity is associated with macrophage accumulation in adipose tissue",
+    "year": 2003,
+    "cited_by_count": 8225,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Stuart P. Weisberg",
+        "institutions": []
+      },
+      {
+        "name": "Daniel McCann",
+        "institutions": []
+      },
+      {
+        "name": "Manisha Desai",
+        "institutions": [
+          "Cancer Research And Biostatistics"
+        ]
+      },
+      {
+        "name": "Michael Rosenbaum",
+        "institutions": []
+      },
+      {
+        "name": "Rudolph L. Leibel",
+        "institutions": [
+          "General Department of Preventive Medicine",
+          "Columbia University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2012154384",
+    "title": "Heart Disease and Stroke Statistics—2012 Update",
+    "year": 2011,
+    "cited_by_count": 7221,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Writing Group Members",
+        "institutions": []
+      },
+      {
+        "name": "Véronique L. Roger",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2757803490",
+    "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
+    "year": 2017,
+    "cited_by_count": 7183,
+    "field": "Physics and Astronomy",
+    "authors": [
+      {
+        "name": "P Giannozzi",
+        "institutions": [
+          "University of Udine"
+        ]
+      },
+      {
+        "name": "O Andreussi",
+        "institutions": [
+          "École Polytechnique Fédérale de Lausanne",
+          "Università della Svizzera italiana"
+        ]
+      },
+      {
+        "name": "T Brumme",
+        "institutions": [
+          "Leipzig University"
+        ]
+      },
+      {
+        "name": "O Bunau",
+        "institutions": [
+          "Centre National de la Recherche Scientifique",
+          "Université Paris Cité",
+          "Sorbonne Université",
+          "Institut de minéralogie, de physique des matériaux et de cosmochimie",
+          "Institut de Recherche pour le Développement"
+        ]
+      },
+      {
+        "name": "M Buongiorno Nardelli",
+        "institutions": [
+          "University of North Texas"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2019071303",
+    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
+    "year": 2013,
+    "cited_by_count": 7098,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Neil J. Stone",
+        "institutions": []
+      },
+      {
+        "name": "Jennifer G. Robinson",
+        "institutions": []
+      },
+      {
+        "name": "Alice H. Lichtenstein",
+        "institutions": []
+      },
+      {
+        "name": "C. Noel Bairey Merz",
+        "institutions": []
+      },
+      {
+        "name": "Conrad B. Blum",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2888532099",
+    "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
+    "year": 2018,
+    "cited_by_count": 6912,
+    "field": "Computer Science",
+    "authors": [
+      {
+        "name": "Adrian M. Price-Whelan",
+        "institutions": [
+          "Princeton University"
+        ]
+      },
+      {
+        "name": "Brigitta Sipőcz",
+        "institutions": [
+          "University of Cambridge"
+        ]
+      },
+      {
+        "name": "Hans Moritz Günther",
+        "institutions": [
+          "Vassar College",
+          "Massachusetts Institute of Technology"
+        ]
+      },
+      {
+        "name": "Pey Lian Lim",
+        "institutions": [
+          "Space Telescope Science Institute"
+        ]
+      },
+      {
+        "name": "Steven M. Crawford",
+        "institutions": [
+          "South African Radio Astronomy Observatory"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2196906371",
+    "title": "Heart Disease and Stroke Statistics—2016 Update",
+    "year": 2015,
+    "cited_by_count": 6623,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Dariush Mozaffarian",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": []
+      },
+      {
+        "name": "Donna K. Arnett",
+        "institutions": []
+      },
+      {
+        "name": "Michael J. Blaha",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2974260792",
+    "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
+    "year": 2019,
+    "cited_by_count": 6600,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "John J.V. McMurray",
+        "institutions": [
+          "Copenhagen University Hospital"
+        ]
+      },
+      {
+        "name": "Scott D. Solomon",
+        "institutions": [
+          "Copenhagen University Hospital"
+        ]
+      },
+      {
+        "name": "Silvio E. Inzucchi",
+        "institutions": [
+          "Copenhagen University Hospital",
+          "Yale University"
+        ]
+      },
+      {
+        "name": "Lars Køber",
+        "institutions": [
+          "Copenhagen University Hospital",
+          "Rigshospitalet"
+        ]
+      },
+      {
+        "name": "Mikhail Kosiborod",
+        "institutions": [
+          "Copenhagen University Hospital",
+          "Saint Luke's Hospital",
+          "University of Missouri–Kansas City"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W1970516435",
+    "title": "Heart Disease and Stroke Statistics—2011 Update",
+    "year": 2010,
+    "cited_by_count": 6167,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Véronique L. Roger",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": [
+          "American Heart Association"
+        ]
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Robert J. Adams",
+        "institutions": [
+          "American Heart Association"
+        ]
+      },
+      {
+        "name": "Jarett D. Berry",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2614781785",
+    "title": "Heart Disease and Stroke Statistics—2010 Update",
+    "year": 2009,
+    "cited_by_count": 5595,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "WRITING GROUP MEMBERS",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": []
+      },
+      {
+        "name": "Robert J. Adams",
+        "institutions": []
+      },
+      {
+        "name": "Todd M. Brown",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Mercedes R. Carnethon",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2000949542",
+    "title": "Heart Disease and Stroke Statistics—2014 Update",
+    "year": 2013,
+    "cited_by_count": 5224,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Alan S. Go",
+        "institutions": []
+      },
+      {
+        "name": "Dariush Mozaffarian",
+        "institutions": []
+      },
+      {
+        "name": "Véronique L. Roger",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      },
+      {
+        "name": "Jarett D. Berry",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2124247204",
+    "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
+    "year": 2014,
+    "cited_by_count": 5167,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Walter N. Kernan",
+        "institutions": []
+      },
+      {
+        "name": "Bruce Ovbiagele",
+        "institutions": []
+      },
+      {
+        "name": "Henry R. Black",
+        "institutions": []
+      },
+      {
+        "name": "Dawn M. Bravata",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Marc I. Chimowitz",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W3010930696",
+    "title": "RETRACTED: Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
+    "year": 2020,
+    "cited_by_count": 4942,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Philippe Gautret",
+        "institutions": [
+          "Méditerranée Infection Foundation",
+          "Institut de Recherche pour le Développement",
+          "Aix-Marseille Université"
+        ]
+      },
+      {
+        "name": "Jean‐Christophe Lagier",
+        "institutions": [
+          "Aix-Marseille Université",
+          "Institut de Recherche pour le Développement",
+          "Méditerranée Infection Foundation"
+        ]
+      },
+      {
+        "name": "Philippe Parola",
+        "institutions": [
+          "Méditerranée Infection Foundation",
+          "Institut de Recherche pour le Développement",
+          "Aix-Marseille Université"
+        ]
+      },
+      {
+        "name": "Van Thuan Hoang",
+        "institutions": [
+          "Méditerranée Infection Foundation",
+          "Institut de Recherche pour le Développement",
+          "Aix-Marseille Université",
+          "Thai Binh University of Medicine and Pharmacy"
+        ]
+      },
+      {
+        "name": "Line Meddeb",
+        "institutions": [
+          "Méditerranée Infection Foundation"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2168536722",
+    "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
+    "year": 2013,
+    "cited_by_count": 4916,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "David C. Goff",
+        "institutions": []
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Glen C. Bennett",
+        "institutions": []
+      },
+      {
+        "name": "Sean Coady",
+        "institutions": []
+      },
+      {
+        "name": "Ralph B. D’Agostino",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2164132449",
+    "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
+    "year": 2008,
+    "cited_by_count": 4669,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Jean Bousquet",
+        "institutions": [
+          "Hôpital Arnaud de Villeneuve",
+          "Inserm"
+        ]
+      },
+      {
+        "name": "N. Khaltaev",
+        "institutions": []
+      },
+      {
+        "name": "Álvaro A. Cruz",
+        "institutions": [
+          "Universidade Federal da Bahia"
+        ]
+      },
+      {
+        "name": "Judah A. Denburg",
+        "institutions": [
+          "McMaster University"
+        ]
+      },
+      {
+        "name": "Wytske J. Fokkens",
+        "institutions": [
+          "Amsterdam UMC Location University of Amsterdam"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2320270386",
+    "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
+    "year": 1997,
+    "cited_by_count": 4641,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Michael J. Fine",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Thomas E. Auble",
+        "institutions": []
+      },
+      {
+        "name": "Donald M. Yealy",
+        "institutions": []
+      },
+      {
+        "name": "Barbara H. Hanusa",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Lisa A. Weissfeld",
+        "institutions": [
+          "University of Pittsburgh"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2221264044",
+    "title": "International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001.",
+    "year": 2004,
+    "cited_by_count": 4209,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Ross E. Petty",
+        "institutions": [
+          "University of British Columbia"
+        ]
+      },
+      {
+        "name": "T. R. E. Southwood",
+        "institutions": [
+          "University of Birmingham"
+        ]
+      },
+      {
+        "name": "Prudence Manners",
+        "institutions": [
+          "The University of Western Australia"
+        ]
+      },
+      {
+        "name": "John Baum",
+        "institutions": [
+          "University of Rochester"
+        ]
+      },
+      {
+        "name": "David N. Glass",
+        "institutions": [
+          "Cincinnati Children's Hospital Medical Center"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W1990869665",
+    "title": "Recent developments in Geant4",
+    "year": 2016,
+    "cited_by_count": 3870,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "John E. Allison",
+        "institutions": [
+          "University of Manchester"
+        ]
+      },
+      {
+        "name": "K. Amako",
+        "institutions": [
+          "High Energy Accelerator Research Organization"
+        ]
+      },
+      {
+        "name": "J. Apostolakis",
+        "institutions": [
+          "European Organization for Nuclear Research"
+        ]
+      },
+      {
+        "name": "P. Arce",
+        "institutions": [
+          "Universidad Complutense de Madrid",
+          "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
+        ]
+      },
+      {
+        "name": "M. Asai",
+        "institutions": [
+          "SLAC National Accelerator Laboratory"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2145840889",
+    "title": "Global diversity and geography of soil fungi",
+    "year": 2014,
+    "cited_by_count": 3548,
+    "field": "Agricultural and Biological Sciences",
+    "authors": [
+      {
+        "name": "Leho Tedersoo",
+        "institutions": [
+          "University of Tartu Natural History Museum and Botanical Garden"
+        ]
+      },
+      {
+        "name": "Mohammad Bahram",
+        "institutions": [
+          "University of Tartu"
+        ]
+      },
+      {
+        "name": "Sergei Põlme",
+        "institutions": [
+          "University of Tartu Natural History Museum and Botanical Garden"
+        ]
+      },
+      {
+        "name": "Urmas Kõljalg",
+        "institutions": [
+          "University of Tartu"
+        ]
+      },
+      {
+        "name": "Nourou S. Yorou",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2119200560",
+    "title": "Burnout and Satisfaction With Work-Life Balance Among US Physicians Relative to the General US Population",
+    "year": 2012,
+    "cited_by_count": 3346,
+    "field": "Health Professions",
+    "authors": [
+      {
+        "name": "Tait D. Shanafelt",
+        "institutions": [
+          "Mayo Clinic in Arizona",
+          "Mayo Clinic"
+        ]
+      },
+      {
+        "name": "Sonja Boone",
+        "institutions": [
+          "American Medical Association"
+        ]
+      },
+      {
+        "name": "Litjen Tan",
+        "institutions": [
+          "American Medical Association"
+        ]
+      },
+      {
+        "name": "Liselotte N. Dyrbye",
+        "institutions": []
+      },
+      {
+        "name": "Wayne M. Sotile",
+        "institutions": [
+          "Tulane University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2130483595",
+    "title": "Forecasting the Future of Cardiovascular Disease in the United States",
+    "year": 2011,
+    "cited_by_count": 3219,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Paul A. Heidenreich",
+        "institutions": [
+          "Resuscitation Council",
+          "American Heart Association"
+        ]
+      },
+      {
+        "name": "Justin G. Trogdon",
+        "institutions": []
+      },
+      {
+        "name": "Olga Khavjou",
+        "institutions": [
+          "American Heart Association",
+          "Resuscitation Council"
+        ]
+      },
+      {
+        "name": "Javed Butler",
+        "institutions": [
+          "American Heart Association",
+          "Resuscitation Council"
+        ]
+      },
+      {
+        "name": "Kathleen Dracup",
+        "institutions": [
+          "Resuscitation Council",
+          "American Heart Association"
+        ]
+      }
+    ]
+  }
+]

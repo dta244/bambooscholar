@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(OPENALEX_API_KEY=\"Hs3AKBn2jGZm1mUHSwfOPb\" python scripts/update_data.py)",
+      "Bash(PYTHONIOENCODING=utf-8 OPENALEX_API_KEY=\"Hs3AKBn2jGZm1mUHSwfOPb\" python scripts/update_data.py)",
+      "Bash(python -c \":*)",
+      "Bash(PYTHONIOENCODING=utf-8 python -c \":*)",
+      "Bash(PYTHONIOENCODING=utf-8 OPENALEX_API_KEY=\"Hs3AKBn2jGZm1mUHSwfOPb\" python -c \":*)",
+      "Bash(rm -rf site/data)",
+      "Bash(cp -r data/ site/data/)"
+    ]
+  }
+}

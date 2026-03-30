@@ -1,0 +1,352 @@
+[
+  {
+    "institution_id": "https://openalex.org/I123565023",
+    "institution_name": "Vietnam National University Ho Chi Minh City",
+    "paper_count": 23699,
+    "total_citations": 908240,
+    "avg_citations": 38.32
+  },
+  {
+    "institution_id": "https://openalex.org/I70349855",
+    "institution_name": "Vietnam Academy of Science and Technology",
+    "paper_count": 20876,
+    "total_citations": 823837,
+    "avg_citations": 39.46
+  },
+  {
+    "institution_id": "https://openalex.org/I94518387",
+    "institution_name": "Hanoi University of Science and Technology",
+    "paper_count": 15592,
+    "total_citations": 424015,
+    "avg_citations": 27.19
+  },
+  {
+    "institution_id": "https://openalex.org/I141445968",
+    "institution_name": "Ton Duc Thang University",
+    "paper_count": 15113,
+    "total_citations": 1203771,
+    "avg_citations": 79.65
+  },
+  {
+    "institution_id": "https://openalex.org/I47265099",
+    "institution_name": "Ho Chi Minh City University of Technology",
+    "paper_count": 14271,
+    "total_citations": 452482,
+    "avg_citations": 31.71
+  },
+  {
+    "institution_id": "https://openalex.org/I170238339",
+    "institution_name": "Duy Tan University",
+    "paper_count": 12832,
+    "total_citations": 877541,
+    "avg_citations": 68.39
+  },
+  {
+    "institution_id": "https://openalex.org/I177233841",
+    "institution_name": "Vietnam National University, Hanoi",
+    "paper_count": 11645,
+    "total_citations": 345004,
+    "avg_citations": 29.63
+  },
+  {
+    "institution_id": "https://openalex.org/I4210095633",
+    "institution_name": "General Department of Preventive Medicine",
+    "paper_count": 11305,
+    "total_citations": 1264335,
+    "avg_citations": 111.84
+  },
+  {
+    "institution_id": "https://openalex.org/I177733328",
+    "institution_name": "Can Tho University",
+    "paper_count": 10035,
+    "total_citations": 199780,
+    "avg_citations": 19.91
+  },
+  {
+    "institution_id": "https://openalex.org/I4210095101",
+    "institution_name": "Hue University",
+    "paper_count": 7054,
+    "total_citations": 90285,
+    "avg_citations": 12.8
+  },
+  {
+    "institution_id": "https://openalex.org/I23582244",
+    "institution_name": "Ho Chi Minh City University of Science",
+    "paper_count": 6947,
+    "total_citations": 103786,
+    "avg_citations": 14.94
+  },
+  {
+    "institution_id": "https://openalex.org/I67868205",
+    "institution_name": "VNU University of Science",
+    "paper_count": 6886,
+    "total_citations": 126019,
+    "avg_citations": 18.3
+  },
+  {
+    "institution_id": "https://openalex.org/I3129492623",
+    "institution_name": "University of Da Nang",
+    "paper_count": 6326,
+    "total_citations": 94256,
+    "avg_citations": 14.9
+  },
+  {
+    "institution_id": "https://openalex.org/I4210115718",
+    "institution_name": "Thai Nguyen University",
+    "paper_count": 6147,
+    "total_citations": 67830,
+    "avg_citations": 11.03
+  },
+  {
+    "institution_id": "https://openalex.org/I3020192730",
+    "institution_name": "Trường ĐH Nguyễn Tất Thành",
+    "paper_count": 6040,
+    "total_citations": 139943,
+    "avg_citations": 23.17
+  },
+  {
+    "institution_id": "https://openalex.org/I181727666",
+    "institution_name": "University of Economics Ho Chi Minh City",
+    "paper_count": 5919,
+    "total_citations": 119548,
+    "avg_citations": 20.2
+  },
+  {
+    "institution_id": "https://openalex.org/I202539009",
+    "institution_name": "Industrial University of Ho Chi Minh City",
+    "paper_count": 5454,
+    "total_citations": 53968,
+    "avg_citations": 9.9
+  },
+  {
+    "institution_id": "https://openalex.org/I2802508454",
+    "institution_name": "University of Medicine and Pharmacy at Ho Chi Minh City",
+    "paper_count": 5319,
+    "total_citations": 72316,
+    "avg_citations": 13.6
+  },
+  {
+    "institution_id": "https://openalex.org/I189643551",
+    "institution_name": "Hanoi Medical University",
+    "paper_count": 5295,
+    "total_citations": 84383,
+    "avg_citations": 15.94
+  },
+  {
+    "institution_id": "https://openalex.org/I4210148201",
+    "institution_name": "Ho Chi Minh City University of Technology and Engineering",
+    "paper_count": 4656,
+    "total_citations": 38183,
+    "avg_citations": 8.2
+  },
+  {
+    "institution_id": "https://openalex.org/I4210155479",
+    "institution_name": "Hospital for Tropical Diseases",
+    "paper_count": 4604,
+    "total_citations": 177324,
+    "avg_citations": 38.52
+  },
+  {
+    "institution_id": "https://openalex.org/I135822937",
+    "institution_name": "Hanoi National University of Education",
+    "paper_count": 4531,
+    "total_citations": 46018,
+    "avg_citations": 10.16
+  },
+  {
+    "institution_id": "https://openalex.org/I131359167",
+    "institution_name": "Le Quy Don Technical University",
+    "paper_count": 4366,
+    "total_citations": 41383,
+    "avg_citations": 9.48
+  },
+  {
+    "institution_id": "https://openalex.org/I64519617",
+    "institution_name": "Hanoi University",
+    "paper_count": 4161,
+    "total_citations": 54986,
+    "avg_citations": 13.21
+  },
+  {
+    "institution_id": "https://openalex.org/I4210124651",
+    "institution_name": "Phenikaa University",
+    "paper_count": 4158,
+    "total_citations": 49252,
+    "avg_citations": 11.85
+  },
+  {
+    "institution_id": "https://openalex.org/I4210123993",
+    "institution_name": "Van Lang University",
+    "paper_count": 3903,
+    "total_citations": 42203,
+    "avg_citations": 10.81
+  },
+  {
+    "institution_id": "https://openalex.org/I121799043",
+    "institution_name": "Electric Power University",
+    "paper_count": 3853,
+    "total_citations": 16740,
+    "avg_citations": 4.34
+  },
+  {
+    "institution_id": "https://openalex.org/I109689652",
+    "institution_name": "FPT University",
+    "paper_count": 3850,
+    "total_citations": 21763,
+    "avg_citations": 5.65
+  },
+  {
+    "institution_id": "https://openalex.org/I1294671590",
+    "institution_name": "Centre National de la Recherche Scientifique",
+    "paper_count": 3797,
+    "total_citations": 1666745322,
+    "avg_citations": 438963.74
+  },
+  {
+    "institution_id": "https://openalex.org/I4210141097",
+    "institution_name": "Tân Tạo University",
+    "paper_count": 3713,
+    "total_citations": 24350,
+    "avg_citations": 6.56
+  },
+  {
+    "institution_id": "https://openalex.org/I138622004",
+    "institution_name": "National Economics University",
+    "paper_count": 3372,
+    "total_citations": 37846,
+    "avg_citations": 11.22
+  },
+  {
+    "institution_id": "https://openalex.org/I182526193",
+    "institution_name": "Thuyloi University",
+    "paper_count": 3337,
+    "total_citations": 67040,
+    "avg_citations": 20.09
+  },
+  {
+    "institution_id": "https://openalex.org/I45756140",
+    "institution_name": "Hanoi University of Industry",
+    "paper_count": 3205,
+    "total_citations": 24779,
+    "avg_citations": 7.73
+  },
+  {
+    "institution_id": "https://openalex.org/I4210148301",
+    "institution_name": "Institute of Mathematics",
+    "paper_count": 3171,
+    "total_citations": 43199,
+    "avg_citations": 13.62
+  },
+  {
+    "institution_id": "https://openalex.org/I153904384",
+    "institution_name": "University of Languages and International Studies",
+    "paper_count": 3134,
+    "total_citations": 6676,
+    "avg_citations": 2.13
+  },
+  {
+    "institution_id": "https://openalex.org/I4210138746",
+    "institution_name": "Vietnam National Children's Hospital",
+    "paper_count": 3056,
+    "total_citations": 42385,
+    "avg_citations": 13.87
+  },
+  {
+    "institution_id": "https://openalex.org/I4210119377",
+    "institution_name": "Department of Animal Health",
+    "paper_count": 2934,
+    "total_citations": 41428,
+    "avg_citations": 14.12
+  },
+  {
+    "institution_id": "https://openalex.org/I4210102522",
+    "institution_name": "Vietnam National University of Agriculture",
+    "paper_count": 2753,
+    "total_citations": 40040,
+    "avg_citations": 14.54
+  },
+  {
+    "institution_id": "https://openalex.org/I4210101969",
+    "institution_name": "Dalat University",
+    "paper_count": 2750,
+    "total_citations": 24473,
+    "avg_citations": 8.9
+  },
+  {
+    "institution_id": "https://openalex.org/I4210150114",
+    "institution_name": "Oxford University Clinical Research Unit",
+    "paper_count": 2746,
+    "total_citations": 168683,
+    "avg_citations": 61.43
+  },
+  {
+    "institution_id": "https://openalex.org/I4210096063",
+    "institution_name": "Ho Chi Minh City Open University",
+    "paper_count": 2722,
+    "total_citations": 31453,
+    "avg_citations": 11.56
+  },
+  {
+    "institution_id": "https://openalex.org/I4210093659",
+    "institution_name": "University of Transport and Communications",
+    "paper_count": 2721,
+    "total_citations": 20300,
+    "avg_citations": 7.46
+  },
+  {
+    "institution_id": "https://openalex.org/I79775147",
+    "institution_name": "Nong Lam University Ho Chi Minh City",
+    "paper_count": 2655,
+    "total_citations": 52477,
+    "avg_citations": 19.77
+  },
+  {
+    "institution_id": "https://openalex.org/I4210097659",
+    "institution_name": "Thang Long University",
+    "paper_count": 2639,
+    "total_citations": 8684,
+    "avg_citations": 3.29
+  },
+  {
+    "institution_id": "https://openalex.org/I1315456113",
+    "institution_name": "Vinh University",
+    "paper_count": 2612,
+    "total_citations": 22790,
+    "avg_citations": 8.73
+  },
+  {
+    "institution_id": "https://openalex.org/I4210109089",
+    "institution_name": "National Institute Of Hygiene And Epidemiology",
+    "paper_count": 2612,
+    "total_citations": 72735,
+    "avg_citations": 27.85
+  },
+  {
+    "institution_id": "https://openalex.org/I29199639",
+    "institution_name": "Hanoi University of Mining and Geology",
+    "paper_count": 2497,
+    "total_citations": 40257,
+    "avg_citations": 16.12
+  },
+  {
+    "institution_id": "https://openalex.org/I4210151924",
+    "institution_name": "Field Crops Research Institute",
+    "paper_count": 2423,
+    "total_citations": 20843,
+    "avg_citations": 8.6
+  },
+  {
+    "institution_id": "https://openalex.org/I257903683",
+    "institution_name": "Hanoi University of Civil Engineering",
+    "paper_count": 2403,
+    "total_citations": 30266,
+    "avg_citations": 12.6
+  },
+  {
+    "institution_id": "https://openalex.org/I12450925",
+    "institution_name": "Nha Trang University",
+    "paper_count": 2290,
+    "total_citations": 31016,
+    "avg_citations": 13.54
+  }
+]

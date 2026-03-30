@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BambooScholar — Vietnamese Research Dashboard</title>
+  <meta name="description" content="Track Vietnamese scientific publications and citations powered by OpenAlex data.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="navbar">
+    <a href="index.html" class="logo">BambooScholar</a>
+    <button class="nav-toggle" onclick="document.querySelector('.navbar nav').classList.toggle('open')">&#9776;</button>
+    <nav>
+      <a href="index.html" class="active">Dashboard</a>
+      <a href="fields.html">Fields</a>
+      <a href="institutions.html">Institutions</a>
+      <a href="top-cited.html">Top Cited</a>
+      <a href="methodology.html">Methodology</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <h1 class="page-title">Vietnamese Research Output</h1>
+    <p class="page-subtitle">Publications and citations by Vietnam-affiliated authors, updated weekly from OpenAlex.</p>
+    <div class="updated-badge" id="updated-badge">Loading...</div>
+
+    <!-- KPI Row -->
+    <div class="kpi-row">
+      <div class="kpi-card">
+        <div class="kpi-label">Total Publications</div>
+        <div class="kpi-value" id="kpi-papers">—</div>
+        <div class="kpi-detail">All-time, Vietnam-affiliated</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Total Citations</div>
+        <div class="kpi-value" id="kpi-citations">—</div>
+        <div class="kpi-detail">Aggregate cited_by_count</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label" id="kpi-year-label">2026 Publications</div>
+        <div class="kpi-value" id="kpi-current-year">—</div>
+        <div class="kpi-detail">Current calendar year</div>
+      </div>
+      <div class="kpi-card">
+        <div class="kpi-label">Avg Citations / Paper</div>
+        <div class="kpi-value" id="kpi-avg">—</div>
+        <div class="kpi-detail">National average</div>
+      </div>
+    </div>
+
+    <!-- Charts -->
+    <div class="chart-row">
+      <div class="card">
+        <h2 class="card-title">Publications &amp; Citations by Year</h2>
+        <div class="chart-container">
+          <canvas id="chart-trend"></canvas>
+        </div>
+      </div>
+      <div class="card">
+        <h2 class="card-title">Top 10 Fields by Paper Count</h2>
+        <div class="chart-container">
+          <canvas id="chart-fields"></canvas>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quick stats table -->
+    <div class="card">
+      <h2 class="card-title">Top Institutions</h2>
+      <table class="data-table" id="table-institutions">
+        <thead>
+          <tr>
+            <th>#</th>
+            <th>Institution</th>
+            <th class="num">Papers</th>
+            <th class="num">Citations</th>
+            <th class="num">Avg Cit.</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </main>
+
+  <footer class="footer">
+    <p>BambooScholar &mdash; Data from <a href="https://openalex.org" target="_blank" rel="noopener">OpenAlex</a>. Updated weekly.</p>
+  </footer>
+
+  <script>
+    const fmt = n => n != null ? n.toLocaleString() : '—';
+
+    async function loadData() {
+      const [summary, byYear, byField, byInst] = await Promise.all([
+        fetch('data/summary.json').then(r => r.json()),
+        fetch('data/by_year.json').then(r => r.json()),
+        fetch('data/by_field.json').then(r => r.json()),
+        fetch('data/by_institution.json').then(r => r.json()),
+      ]);
+
+      // KPIs
+      document.getElementById('kpi-papers').textContent = fmt(summary.total_papers);
+      document.getElementById('kpi-citations').textContent = fmt(summary.total_citations);
+      document.getElementById('kpi-current-year').textContent = fmt(summary.current_year_papers);
+      document.getElementById('kpi-year-label').textContent = `${summary.current_year} Publications`;
+      document.getElementById('kpi-avg').textContent = summary.avg_citations_per_paper;
+      document.getElementById('updated-badge').textContent = `Last updated: ${summary.last_updated}`;
+
+      // Trend chart
+      const years = byYear.map(y => y.year);
+      const paperCounts = byYear.map(y => y.paper_count);
+      const citCounts = byYear.map(y => y.total_citations || 0);
+
+      new Chart(document.getElementById('chart-trend'), {
+        type: 'line',
+        data: {
+          labels: years,
+          datasets: [
+            {
+              label: 'Publications',
+              data: paperCounts,
+              borderColor: '#1a6b3c',
+              backgroundColor: 'rgba(26,107,60,0.1)',
+              fill: true,
+              yAxisID: 'y',
+              tension: 0.3,
+            },
+            {
+              label: 'Citations',
+              data: citCounts,
+              borderColor: '#f9a825',
+              backgroundColor: 'rgba(249,168,37,0.1)',
+              fill: true,
+              yAxisID: 'y1',
+              tension: 0.3,
+            },
+          ],
+        },
+        options: {
+          responsive: true,
+          interaction: { mode: 'index', intersect: false },
+          scales: {
+            y: { type: 'linear', position: 'left', title: { display: true, text: 'Publications' } },
+            y1: { type: 'linear', position: 'right', title: { display: true, text: 'Citations' }, grid: { drawOnChartArea: false } },
+          },
+        },
+      });
+
+      // Field bar chart (top 10)
+      const topFields = byField.slice(0, 10);
+      new Chart(document.getElementById('chart-fields'), {
+        type: 'bar',
+        data: {
+          labels: topFields.map(f => f.field_name),
+          datasets: [{
+            label: 'Papers',
+            data: topFields.map(f => f.paper_count),
+            backgroundColor: '#1a6b3c',
+            borderRadius: 4,
+          }],
+        },
+        options: {
+          responsive: true,
+          indexAxis: 'y',
+          scales: { x: { beginAtZero: true } },
+          plugins: { legend: { display: false } },
+        },
+      });
+
+      // Top institutions table (top 10)
+      const tbody = document.querySelector('#table-institutions tbody');
+      byInst.slice(0, 10).forEach((inst, i) => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td class="rank">${i + 1}</td>
+          <td><a href="institutions.html">${inst.institution_name}</a></td>
+          <td class="num">${fmt(inst.paper_count)}</td>
+          <td class="num">${fmt(inst.total_citations || 0)}</td>
+          <td class="num">${inst.avg_citations || '—'}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+    }
+
+    loadData().catch(err => {
+      console.error('Failed to load data:', err);
+      document.getElementById('updated-badge').textContent = 'Data not yet available — run the updater first.';
+    });
+  </script>
+</body>
+</html>
