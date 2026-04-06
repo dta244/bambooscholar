@@ -32,7 +32,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10543,
+    "cited_by_count": 10587,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -74,7 +74,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 9995,
+    "cited_by_count": 10013,
     "field": "Medicine",
     "authors": [
       {
@@ -113,7 +113,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8580,
+    "cited_by_count": 8582,
     "field": "Medicine",
     "authors": [
       {
@@ -147,7 +147,7 @@
     "id": "https://openalex.org/W2108790161",
     "title": "Heart disease and stroke statistics--2015 update: a report from the American Heart Association.",
     "year": 2015,
-    "cited_by_count": 8333,
+    "cited_by_count": 8337,
     "field": "Medicine",
     "authors": [
       {
@@ -176,7 +176,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8225,
+    "cited_by_count": 8229,
     "field": "Medicine",
     "authors": [
       {
@@ -210,7 +210,7 @@
     "id": "https://openalex.org/W2012154384",
     "title": "Heart Disease and Stroke Statistics—2012 Update",
     "year": 2011,
-    "cited_by_count": 7221,
+    "cited_by_count": 7225,
     "field": "Medicine",
     "authors": [
       {
@@ -241,7 +241,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7184,
+    "cited_by_count": 7221,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -285,7 +285,7 @@
     "id": "https://openalex.org/W2019071303",
     "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
     "year": 2013,
-    "cited_by_count": 7098,
+    "cited_by_count": 7100,
     "field": "Medicine",
     "authors": [
       {
@@ -314,7 +314,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
     "year": 2018,
-    "cited_by_count": 6912,
+    "cited_by_count": 7029,
     "field": "Computer Science",
     "authors": [
       {
@@ -351,39 +351,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2196906371",
-    "title": "Heart Disease and Stroke Statistics—2016 Update",
-    "year": 2015,
-    "cited_by_count": 6623,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Dariush Mozaffarian",
-        "institutions": []
-      },
-      {
-        "name": "Emelia J. Benjamin",
-        "institutions": []
-      },
-      {
-        "name": "Alan S. Go",
-        "institutions": []
-      },
-      {
-        "name": "Donna K. Arnett",
-        "institutions": []
-      },
-      {
-        "name": "Michael J. Blaha",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 6600,
+    "cited_by_count": 6628,
     "field": "Medicine",
     "authors": [
       {
@@ -419,6 +390,35 @@
           "Saint Luke's Hospital",
           "University of Missouri–Kansas City"
         ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2196906371",
+    "title": "Heart Disease and Stroke Statistics—2016 Update",
+    "year": 2015,
+    "cited_by_count": 6624,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Dariush Mozaffarian",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": []
+      },
+      {
+        "name": "Donna K. Arnett",
+        "institutions": []
+      },
+      {
+        "name": "Michael J. Blaha",
+        "institutions": []
       }
     ]
   },
@@ -461,7 +461,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5595,
+    "cited_by_count": 5598,
     "field": "Medicine",
     "authors": [
       {
@@ -494,7 +494,7 @@
     "id": "https://openalex.org/W2000949542",
     "title": "Heart Disease and Stroke Statistics—2014 Update",
     "year": 2013,
-    "cited_by_count": 5224,
+    "cited_by_count": 5225,
     "field": "Medicine",
     "authors": [
       {
@@ -523,7 +523,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5167,
+    "cited_by_count": 5172,
     "field": "Medicine",
     "authors": [
       {
@@ -554,7 +554,7 @@
     "id": "https://openalex.org/W3010930696",
     "title": "RETRACTED: Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
     "year": 2020,
-    "cited_by_count": 4942,
+    "cited_by_count": 4947,
     "field": "Medicine",
     "authors": [
       {
@@ -602,7 +602,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4916,
+    "cited_by_count": 4922,
     "field": "Medicine",
     "authors": [
       {
@@ -633,7 +633,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4669,
+    "cited_by_count": 4673,
     "field": "Medicine",
     "authors": [
       {
@@ -671,7 +671,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4641,
+    "cited_by_count": 4642,
     "field": "Medicine",
     "authors": [
       {
@@ -706,7 +706,7 @@
     "id": "https://openalex.org/W2221264044",
     "title": "International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001.",
     "year": 2004,
-    "cited_by_count": 4209,
+    "cited_by_count": 4210,
     "field": "Medicine",
     "authors": [
       {
@@ -745,7 +745,7 @@
     "id": "https://openalex.org/W1990869665",
     "title": "Recent developments in Geant4",
     "year": 2016,
-    "cited_by_count": 3870,
+    "cited_by_count": 3904,
     "field": "Medicine",
     "authors": [
       {
@@ -785,7 +785,7 @@
     "id": "https://openalex.org/W2145840889",
     "title": "Global diversity and geography of soil fungi",
     "year": 2014,
-    "cited_by_count": 3548,
+    "cited_by_count": 3558,
     "field": "Agricultural and Biological Sciences",
     "authors": [
       {
@@ -822,7 +822,7 @@
     "id": "https://openalex.org/W2119200560",
     "title": "Burnout and Satisfaction With Work-Life Balance Among US Physicians Relative to the General US Population",
     "year": 2012,
-    "cited_by_count": 3346,
+    "cited_by_count": 3351,
     "field": "Health Professions",
     "authors": [
       {
@@ -860,7 +860,7 @@
     "id": "https://openalex.org/W2130483595",
     "title": "Forecasting the Future of Cardiovascular Disease in the United States",
     "year": 2011,
-    "cited_by_count": 3219,
+    "cited_by_count": 3220,
     "field": "Medicine",
     "authors": [
       {
