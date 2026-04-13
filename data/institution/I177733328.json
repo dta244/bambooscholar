@@ -5,17 +5,17 @@
     {
       "field_id": "https://openalex.org/fields/11",
       "field_name": "Agricultural and Biological Sciences",
-      "paper_count": 1640
+      "paper_count": 1645
     },
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1333
+      "paper_count": 1337
     },
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 1273
+      "paper_count": 1287
     },
     {
       "field_id": "https://openalex.org/fields/17",
@@ -25,22 +25,22 @@
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 881
+      "paper_count": 887
     },
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 778
+      "paper_count": 782
     },
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 532
+      "paper_count": 535
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 407
+      "paper_count": 409
     },
     {
       "field_id": "https://openalex.org/fields/14",
@@ -55,7 +55,7 @@
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 193
+      "paper_count": 194
     },
     {
       "field_id": "https://openalex.org/fields/20",
@@ -63,13 +63,13 @@
       "paper_count": 190
     },
     {
-      "field_id": "https://openalex.org/fields/16",
-      "field_name": "Chemistry",
-      "paper_count": 155
-    },
-    {
       "field_id": "https://openalex.org/fields/24",
       "field_name": "Immunology and Microbiology",
+      "paper_count": 156
+    },
+    {
+      "field_id": "https://openalex.org/fields/16",
+      "field_name": "Chemistry",
       "paper_count": 155
     },
     {
@@ -80,7 +80,7 @@
     {
       "field_id": "https://openalex.org/fields/18",
       "field_name": "Decision Sciences",
-      "paper_count": 109
+      "paper_count": 113
     },
     {
       "field_id": "https://openalex.org/fields/26",
@@ -120,7 +120,7 @@
     {
       "field_id": "https://openalex.org/fields/28",
       "field_name": "Neuroscience",
-      "paper_count": 35
+      "paper_count": 36
     },
     {
       "field_id": "https://openalex.org/fields/15",
