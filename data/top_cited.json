@@ -32,7 +32,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10623,
+    "cited_by_count": 10661,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -74,7 +74,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10020,
+    "cited_by_count": 10030,
     "field": "Medicine",
     "authors": [
       {
@@ -176,7 +176,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8231,
+    "cited_by_count": 8236,
     "field": "Medicine",
     "authors": [
       {
@@ -210,7 +210,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7246,
+    "cited_by_count": 7274,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -285,7 +285,7 @@
     "id": "https://openalex.org/W2019071303",
     "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
     "year": 2013,
-    "cited_by_count": 7102,
+    "cited_by_count": 7104,
     "field": "Medicine",
     "authors": [
       {
@@ -314,7 +314,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
     "year": 2018,
-    "cited_by_count": 7054,
+    "cited_by_count": 7080,
     "field": "Computer Science",
     "authors": [
       {
@@ -354,7 +354,7 @@
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 6643,
+    "cited_by_count": 6662,
     "field": "Medicine",
     "authors": [
       {
@@ -397,7 +397,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6625,
+    "cited_by_count": 6627,
     "field": "Medicine",
     "authors": [
       {
@@ -461,7 +461,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5598,
+    "cited_by_count": 5600,
     "field": "Medicine",
     "authors": [
       {
@@ -523,7 +523,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5172,
+    "cited_by_count": 5175,
     "field": "Medicine",
     "authors": [
       {
@@ -602,7 +602,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4925,
+    "cited_by_count": 4928,
     "field": "Medicine",
     "authors": [
       {
@@ -633,14 +633,14 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4674,
+    "cited_by_count": 4678,
     "field": "Medicine",
     "authors": [
       {
         "name": "Jean Bousquet",
         "institutions": [
-          "Hôpital Arnaud de Villeneuve",
-          "Inserm"
+          "Inserm",
+          "Hôpital Arnaud de Villeneuve"
         ]
       },
       {
@@ -671,7 +671,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4645,
+    "cited_by_count": 4647,
     "field": "Medicine",
     "authors": [
       {
@@ -745,7 +745,7 @@
     "id": "https://openalex.org/W1990869665",
     "title": "Recent developments in Geant4",
     "year": 2016,
-    "cited_by_count": 3915,
+    "cited_by_count": 3933,
     "field": "Medicine",
     "authors": [
       {
@@ -785,7 +785,7 @@
     "id": "https://openalex.org/W2145840889",
     "title": "Global diversity and geography of soil fungi",
     "year": 2014,
-    "cited_by_count": 3566,
+    "cited_by_count": 3572,
     "field": "Agricultural and Biological Sciences",
     "authors": [
       {
@@ -814,7 +814,9 @@
       },
       {
         "name": "Nourou S. Yorou",
-        "institutions": []
+        "institutions": [
+          "Université de Parakou"
+        ]
       }
     ]
   },
@@ -822,7 +824,7 @@
     "id": "https://openalex.org/W2119200560",
     "title": "Burnout and Satisfaction With Work-Life Balance Among US Physicians Relative to the General US Population",
     "year": 2012,
-    "cited_by_count": 3358,
+    "cited_by_count": 3368,
     "field": "Health Professions",
     "authors": [
       {
@@ -860,7 +862,7 @@
     "id": "https://openalex.org/W2130483595",
     "title": "Forecasting the Future of Cardiovascular Disease in the United States",
     "year": 2011,
-    "cited_by_count": 3220,
+    "cited_by_count": 3222,
     "field": "Medicine",
     "authors": [
       {
