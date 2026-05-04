@@ -32,7 +32,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10699,
+    "cited_by_count": 10716,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -74,7 +74,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10042,
+    "cited_by_count": 10049,
     "field": "Medicine",
     "authors": [
       {
@@ -113,7 +113,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8585,
+    "cited_by_count": 8586,
     "field": "Medicine",
     "authors": [
       {
@@ -176,7 +176,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8244,
+    "cited_by_count": 8247,
     "field": "Medicine",
     "authors": [
       {
@@ -210,7 +210,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7302,
+    "cited_by_count": 7313,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -282,39 +282,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2019071303",
-    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
-    "year": 2013,
-    "cited_by_count": 7104,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Neil J. Stone",
-        "institutions": []
-      },
-      {
-        "name": "Jennifer G. Robinson",
-        "institutions": []
-      },
-      {
-        "name": "Alice H. Lichtenstein",
-        "institutions": []
-      },
-      {
-        "name": "C. Noel Bairey Merz",
-        "institutions": []
-      },
-      {
-        "name": "Conrad B. Blum",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
     "year": 2018,
-    "cited_by_count": 7100,
+    "cited_by_count": 7118,
     "field": "Computer Science",
     "authors": [
       {
@@ -351,10 +322,39 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2019071303",
+    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
+    "year": 2013,
+    "cited_by_count": 7104,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Neil J. Stone",
+        "institutions": []
+      },
+      {
+        "name": "Jennifer G. Robinson",
+        "institutions": []
+      },
+      {
+        "name": "Alice H. Lichtenstein",
+        "institutions": []
+      },
+      {
+        "name": "C. Noel Bairey Merz",
+        "institutions": []
+      },
+      {
+        "name": "Conrad B. Blum",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 6682,
+    "cited_by_count": 6691,
     "field": "Medicine",
     "authors": [
       {
@@ -397,7 +397,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6628,
+    "cited_by_count": 6629,
     "field": "Medicine",
     "authors": [
       {
@@ -426,7 +426,7 @@
     "id": "https://openalex.org/W1970516435",
     "title": "Heart Disease and Stroke Statistics—2011 Update",
     "year": 2010,
-    "cited_by_count": 6167,
+    "cited_by_count": 6168,
     "field": "Medicine",
     "authors": [
       {
@@ -494,7 +494,7 @@
     "id": "https://openalex.org/W2000949542",
     "title": "Heart Disease and Stroke Statistics—2014 Update",
     "year": 2013,
-    "cited_by_count": 5227,
+    "cited_by_count": 5228,
     "field": "Medicine",
     "authors": [
       {
@@ -523,7 +523,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5177,
+    "cited_by_count": 5179,
     "field": "Medicine",
     "authors": [
       {
@@ -602,7 +602,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4934,
+    "cited_by_count": 4938,
     "field": "Medicine",
     "authors": [
       {
@@ -671,7 +671,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4649,
+    "cited_by_count": 4651,
     "field": "Medicine",
     "authors": [
       {
@@ -706,7 +706,7 @@
     "id": "https://openalex.org/W2221264044",
     "title": "International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001.",
     "year": 2004,
-    "cited_by_count": 4210,
+    "cited_by_count": 4211,
     "field": "Medicine",
     "authors": [
       {
@@ -745,7 +745,7 @@
     "id": "https://openalex.org/W1990869665",
     "title": "Recent developments in Geant4",
     "year": 2016,
-    "cited_by_count": 3947,
+    "cited_by_count": 3949,
     "field": "Medicine",
     "authors": [
       {
@@ -785,7 +785,7 @@
     "id": "https://openalex.org/W2145840889",
     "title": "Global diversity and geography of soil fungi",
     "year": 2014,
-    "cited_by_count": 3581,
+    "cited_by_count": 3584,
     "field": "Agricultural and Biological Sciences",
     "authors": [
       {
@@ -824,7 +824,7 @@
     "id": "https://openalex.org/W2119200560",
     "title": "Burnout and Satisfaction With Work-Life Balance Among US Physicians Relative to the General US Population",
     "year": 2012,
-    "cited_by_count": 3370,
+    "cited_by_count": 3371,
     "field": "Health Professions",
     "authors": [
       {
