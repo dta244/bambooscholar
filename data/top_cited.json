@@ -1,5 +1,48 @@
 [
   {
+    "id": "https://openalex.org/W2104549677",
+    "title": "A global reference for human genetic variation",
+    "year": 2015,
+    "cited_by_count": 19747,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "authors": [
+      {
+        "name": "Corresponding authors",
+        "institutions": [
+          "Albert Einstein College of Medicine"
+        ]
+      },
+      {
+        "name": "Adam Auton",
+        "institutions": [
+          "Albert Einstein College of Medicine",
+          "University of Michigan"
+        ]
+      },
+      {
+        "name": "Gonçalo R. Abecasis",
+        "institutions": [
+          "University of Michigan",
+          "Vertex Pharmaceuticals (United States)"
+        ]
+      },
+      {
+        "name": "David M. Altshuler",
+        "institutions": [
+          "Wellcome Sanger Institute",
+          "Vertex Pharmaceuticals (United States)"
+        ]
+      },
+      {
+        "name": "Richard Durbin",
+        "institutions": [
+          "University of Michigan",
+          "Wellcome Sanger Institute"
+        ]
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2477872031",
     "title": "Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)",
     "year": 2002,
@@ -32,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10716,
+    "cited_by_count": 10760,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -74,7 +117,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10049,
+    "cited_by_count": 10073,
     "field": "Medicine",
     "authors": [
       {
@@ -113,7 +156,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8586,
+    "cited_by_count": 8588,
     "field": "Medicine",
     "authors": [
       {
@@ -176,7 +219,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8247,
+    "cited_by_count": 8249,
     "field": "Medicine",
     "authors": [
       {
@@ -210,7 +253,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7313,
+    "cited_by_count": 7350,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -254,7 +297,7 @@
     "id": "https://openalex.org/W2012154384",
     "title": "Heart Disease and Stroke Statistics—2012 Update",
     "year": 2011,
-    "cited_by_count": 7227,
+    "cited_by_count": 7228,
     "field": "Medicine",
     "authors": [
       {
@@ -285,7 +328,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
     "year": 2018,
-    "cited_by_count": 7118,
+    "cited_by_count": 7152,
     "field": "Computer Science",
     "authors": [
       {
@@ -354,7 +397,7 @@
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 6691,
+    "cited_by_count": 6717,
     "field": "Medicine",
     "authors": [
       {
@@ -397,7 +440,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6629,
+    "cited_by_count": 6631,
     "field": "Medicine",
     "authors": [
       {
@@ -419,6 +462,92 @@
       {
         "name": "Michael J. Blaha",
         "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2098082628",
+    "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
+    "year": 2015,
+    "cited_by_count": 6483,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Theo Vos",
+        "institutions": [
+          "University of Washington",
+          "Seattle University"
+        ]
+      },
+      {
+        "name": "Ryan M Barber",
+        "institutions": [
+          "University of Washington",
+          "Seattle University"
+        ]
+      },
+      {
+        "name": "Brad Bell",
+        "institutions": [
+          "University of Washington",
+          "Seattle University"
+        ]
+      },
+      {
+        "name": "Amelia Bertozzi-Villa",
+        "institutions": [
+          "University of Washington",
+          "Seattle University"
+        ]
+      },
+      {
+        "name": "Stan Biryukov",
+        "institutions": [
+          "University of Washington",
+          "Seattle University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2560322684",
+    "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",
+    "year": 2016,
+    "cited_by_count": 6299,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Christina Fitzmaurice",
+        "institutions": [
+          "University of Washington",
+          "Institute for Health Metrics and Evaluation"
+        ]
+      },
+      {
+        "name": "Christine A. Allen",
+        "institutions": [
+          "University of Washington",
+          "Institute for Health Metrics and Evaluation"
+        ]
+      },
+      {
+        "name": "Ryan M Barber",
+        "institutions": [
+          "University of Washington",
+          "Institute for Health Metrics and Evaluation"
+        ]
+      },
+      {
+        "name": "Lars Barregård",
+        "institutions": [
+          "University of Gothenburg"
+        ]
+      },
+      {
+        "name": "Zulfiqar A Bhutta",
+        "institutions": [
+          "Aga Khan University"
+        ]
       }
     ]
   },
@@ -461,7 +590,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5600,
+    "cited_by_count": 5601,
     "field": "Medicine",
     "authors": [
       {
@@ -491,10 +620,51 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2993259418",
+    "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
+    "year": 2020,
+    "cited_by_count": 5445,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "W.J. Fokkens",
+        "institutions": [
+          "Amsterdam University Medical Centers"
+        ]
+      },
+      {
+        "name": "Valerie J. Lund",
+        "institutions": [
+          "Royal National Throat Nose and Ear Hospital"
+        ]
+      },
+      {
+        "name": "C. Hopkins",
+        "institutions": [
+          "St Thomas' Hospital"
+        ]
+      },
+      {
+        "name": "Peter W. Hellings",
+        "institutions": [
+          "Ghent University Hospital",
+          "Amsterdam University Medical Centers",
+          "KU Leuven"
+        ]
+      },
+      {
+        "name": "Robert C. Kern",
+        "institutions": [
+          "Northwestern University"
+        ]
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2000949542",
     "title": "Heart Disease and Stroke Statistics—2014 Update",
     "year": 2013,
-    "cited_by_count": 5228,
+    "cited_by_count": 5230,
     "field": "Medicine",
     "authors": [
       {
@@ -523,7 +693,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5179,
+    "cited_by_count": 5180,
     "field": "Medicine",
     "authors": [
       {
@@ -602,7 +772,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4938,
+    "cited_by_count": 4943,
     "field": "Medicine",
     "authors": [
       {
@@ -633,7 +803,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4681,
+    "cited_by_count": 4684,
     "field": "Medicine",
     "authors": [
       {
@@ -671,7 +841,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4651,
+    "cited_by_count": 4652,
     "field": "Medicine",
     "authors": [
       {
@@ -737,164 +907,6 @@
         "name": "David N. Glass",
         "institutions": [
           "Cincinnati Children's Hospital Medical Center"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W1990869665",
-    "title": "Recent developments in Geant4",
-    "year": 2016,
-    "cited_by_count": 3949,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "John E. Allison",
-        "institutions": [
-          "University of Manchester"
-        ]
-      },
-      {
-        "name": "K. Amako",
-        "institutions": [
-          "High Energy Accelerator Research Organization"
-        ]
-      },
-      {
-        "name": "J. Apostolakis",
-        "institutions": [
-          "European Organization for Nuclear Research"
-        ]
-      },
-      {
-        "name": "P. Arce",
-        "institutions": [
-          "Universidad Complutense de Madrid",
-          "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
-        ]
-      },
-      {
-        "name": "M. Asai",
-        "institutions": [
-          "SLAC National Accelerator Laboratory"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W2145840889",
-    "title": "Global diversity and geography of soil fungi",
-    "year": 2014,
-    "cited_by_count": 3584,
-    "field": "Agricultural and Biological Sciences",
-    "authors": [
-      {
-        "name": "Leho Tedersoo",
-        "institutions": [
-          "University of Tartu Natural History Museum and Botanical Garden"
-        ]
-      },
-      {
-        "name": "Mohammad Bahram",
-        "institutions": [
-          "University of Tartu"
-        ]
-      },
-      {
-        "name": "Sergei Põlme",
-        "institutions": [
-          "University of Tartu Natural History Museum and Botanical Garden"
-        ]
-      },
-      {
-        "name": "Urmas Kõljalg",
-        "institutions": [
-          "University of Tartu"
-        ]
-      },
-      {
-        "name": "Nourou S. Yorou",
-        "institutions": [
-          "Université de Parakou"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W2119200560",
-    "title": "Burnout and Satisfaction With Work-Life Balance Among US Physicians Relative to the General US Population",
-    "year": 2012,
-    "cited_by_count": 3371,
-    "field": "Health Professions",
-    "authors": [
-      {
-        "name": "Tait D. Shanafelt",
-        "institutions": [
-          "Mayo Clinic in Arizona",
-          "Mayo Clinic"
-        ]
-      },
-      {
-        "name": "Sonja Boone",
-        "institutions": [
-          "American Medical Association"
-        ]
-      },
-      {
-        "name": "Litjen Tan",
-        "institutions": [
-          "American Medical Association"
-        ]
-      },
-      {
-        "name": "Liselotte N. Dyrbye",
-        "institutions": []
-      },
-      {
-        "name": "Wayne M. Sotile",
-        "institutions": [
-          "Tulane University"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W2130483595",
-    "title": "Forecasting the Future of Cardiovascular Disease in the United States",
-    "year": 2011,
-    "cited_by_count": 3223,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Paul A. Heidenreich",
-        "institutions": [
-          "Resuscitation Council",
-          "American Heart Association"
-        ]
-      },
-      {
-        "name": "Justin G. Trogdon",
-        "institutions": []
-      },
-      {
-        "name": "Olga Khavjou",
-        "institutions": [
-          "American Heart Association",
-          "Resuscitation Council"
-        ]
-      },
-      {
-        "name": "Javed Butler",
-        "institutions": [
-          "American Heart Association",
-          "Resuscitation Council"
-        ]
-      },
-      {
-        "name": "Kathleen Dracup",
-        "institutions": [
-          "Resuscitation Council",
-          "American Heart Association"
         ]
       }
     ]
