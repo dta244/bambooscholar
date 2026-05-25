@@ -1,9 +1,9 @@
 {
-  "total_papers": 288810,
-  "total_citations": 34721922,
+  "total_papers": 291799,
+  "total_citations": 35302572,
   "current_year": 2026,
-  "current_year_papers": 16370,
-  "avg_citations_per_paper": 120.22,
-  "last_updated": "2026-05-18",
+  "current_year_papers": 17421,
+  "avg_citations_per_paper": 120.98,
+  "last_updated": "2026-05-25",
   "data_source": "OpenAlex"
 }
