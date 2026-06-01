@@ -5,17 +5,17 @@
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 3626
+      "paper_count": 3631
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 1796
+      "paper_count": 1800
     },
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1308
+      "paper_count": 1309
     },
     {
       "field_id": "https://openalex.org/fields/17",
@@ -45,12 +45,12 @@
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 428
+      "paper_count": 431
     },
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 359
+      "paper_count": 361
     },
     {
       "field_id": "https://openalex.org/fields/16",
@@ -65,7 +65,7 @@
     {
       "field_id": "https://openalex.org/fields/14",
       "field_name": "Business, Management and Accounting",
-      "paper_count": 180
+      "paper_count": 181
     },
     {
       "field_id": "https://openalex.org/fields/19",
@@ -85,7 +85,7 @@
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 111
+      "paper_count": 112
     },
     {
       "field_id": "https://openalex.org/fields/36",
@@ -95,7 +95,7 @@
     {
       "field_id": "https://openalex.org/fields/15",
       "field_name": "Chemical Engineering",
-      "paper_count": 54
+      "paper_count": 55
     },
     {
       "field_id": "https://openalex.org/fields/28",

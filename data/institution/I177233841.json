@@ -5,42 +5,42 @@
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1459
-    },
-    {
-      "field_id": "https://openalex.org/fields/22",
-      "field_name": "Engineering",
-      "paper_count": 1388
+      "paper_count": 1464
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 1386
+      "paper_count": 1391
+    },
+    {
+      "field_id": "https://openalex.org/fields/22",
+      "field_name": "Engineering",
+      "paper_count": 1389
     },
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 1164
+      "paper_count": 1172
     },
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 1058
+      "paper_count": 1061
     },
     {
       "field_id": "https://openalex.org/fields/14",
       "field_name": "Business, Management and Accounting",
-      "paper_count": 671
+      "paper_count": 677
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 639
+      "paper_count": 642
     },
     {
       "field_id": "https://openalex.org/fields/20",
       "field_name": "Economics, Econometrics and Finance",
-      "paper_count": 613
+      "paper_count": 615
     },
     {
       "field_id": "https://openalex.org/fields/13",
@@ -60,22 +60,22 @@
     {
       "field_id": "https://openalex.org/fields/19",
       "field_name": "Earth and Planetary Sciences",
-      "paper_count": 364
+      "paper_count": 369
     },
     {
       "field_id": "https://openalex.org/fields/31",
       "field_name": "Physics and Astronomy",
-      "paper_count": 312
+      "paper_count": 314
     },
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 263
+      "paper_count": 265
     },
     {
       "field_id": "https://openalex.org/fields/18",
       "field_name": "Decision Sciences",
-      "paper_count": 250
+      "paper_count": 251
     },
     {
       "field_id": "https://openalex.org/fields/16",
@@ -90,12 +90,12 @@
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 144
+      "paper_count": 147
     },
     {
       "field_id": "https://openalex.org/fields/12",
       "field_name": "Arts and Humanities",
-      "paper_count": 136
+      "paper_count": 137
     },
     {
       "field_id": "https://openalex.org/fields/30",
@@ -115,7 +115,7 @@
     {
       "field_id": "https://openalex.org/fields/35",
       "field_name": "Dentistry",
-      "paper_count": 38
+      "paper_count": 39
     },
     {
       "field_id": "https://openalex.org/fields/15",

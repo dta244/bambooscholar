@@ -5,32 +5,32 @@
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1320
+      "paper_count": 1326
     },
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 1026
+      "paper_count": 1028
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 868
+      "paper_count": 871
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 636
+      "paper_count": 637
     },
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 424
+      "paper_count": 430
     },
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 418
+      "paper_count": 419
     },
     {
       "field_id": "https://openalex.org/fields/11",
@@ -40,7 +40,7 @@
     {
       "field_id": "https://openalex.org/fields/19",
       "field_name": "Earth and Planetary Sciences",
-      "paper_count": 329
+      "paper_count": 330
     },
     {
       "field_id": "https://openalex.org/fields/31",
@@ -55,7 +55,7 @@
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 274
+      "paper_count": 277
     },
     {
       "field_id": "https://openalex.org/fields/26",
@@ -70,7 +70,7 @@
     {
       "field_id": "https://openalex.org/fields/18",
       "field_name": "Decision Sciences",
-      "paper_count": 91
+      "paper_count": 92
     },
     {
       "field_id": "https://openalex.org/fields/20",
@@ -85,12 +85,12 @@
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 62
+      "paper_count": 63
     },
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 55
+      "paper_count": 58
     },
     {
       "field_id": "https://openalex.org/fields/30",
