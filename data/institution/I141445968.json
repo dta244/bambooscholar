@@ -5,22 +5,22 @@
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 5289
+      "paper_count": 5295
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 1462
+      "paper_count": 1463
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 1445
+      "paper_count": 1447
     },
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1097
+      "paper_count": 1099
     },
     {
       "field_id": "https://openalex.org/fields/26",
@@ -30,7 +30,7 @@
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 692
+      "paper_count": 696
     },
     {
       "field_id": "https://openalex.org/fields/31",
@@ -40,7 +40,7 @@
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 476
+      "paper_count": 477
     },
     {
       "field_id": "https://openalex.org/fields/11",
@@ -50,7 +50,7 @@
     {
       "field_id": "https://openalex.org/fields/14",
       "field_name": "Business, Management and Accounting",
-      "paper_count": 423
+      "paper_count": 424
     },
     {
       "field_id": "https://openalex.org/fields/21",
@@ -60,12 +60,12 @@
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 381
+      "paper_count": 384
     },
     {
       "field_id": "https://openalex.org/fields/20",
       "field_name": "Economics, Econometrics and Finance",
-      "paper_count": 366
+      "paper_count": 367
     },
     {
       "field_id": "https://openalex.org/fields/16",
@@ -75,12 +75,12 @@
     {
       "field_id": "https://openalex.org/fields/18",
       "field_name": "Decision Sciences",
-      "paper_count": 204
+      "paper_count": 205
     },
     {
       "field_id": "https://openalex.org/fields/19",
       "field_name": "Earth and Planetary Sciences",
-      "paper_count": 128
+      "paper_count": 129
     },
     {
       "field_id": "https://openalex.org/fields/32",
@@ -95,7 +95,7 @@
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 83
+      "paper_count": 84
     },
     {
       "field_id": "https://openalex.org/fields/15",

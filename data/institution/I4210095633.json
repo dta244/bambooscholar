@@ -5,7 +5,7 @@
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 7260
+      "paper_count": 7269
     },
     {
       "field_id": "https://openalex.org/fields/36",
@@ -25,12 +25,12 @@
     {
       "field_id": "https://openalex.org/fields/24",
       "field_name": "Immunology and Microbiology",
-      "paper_count": 326
+      "paper_count": 328
     },
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 302
+      "paper_count": 304
     },
     {
       "field_id": "https://openalex.org/fields/35",
@@ -65,7 +65,7 @@
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 87
+      "paper_count": 88
     },
     {
       "field_id": "https://openalex.org/fields/30",
@@ -80,7 +80,7 @@
     {
       "field_id": "https://openalex.org/fields/12",
       "field_name": "Arts and Humanities",
-      "paper_count": 51
+      "paper_count": 52
     },
     {
       "field_id": "https://openalex.org/fields/17",
@@ -120,7 +120,7 @@
     {
       "field_id": "https://openalex.org/fields/21",
       "field_name": "Energy",
-      "paper_count": 6
+      "paper_count": 7
     },
     {
       "field_id": "https://openalex.org/fields/19",
