@@ -5,72 +5,72 @@
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 2931
+      "paper_count": 2968
     },
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 2815
+      "paper_count": 2826
     },
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 2714
+      "paper_count": 2736
     },
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 2449
+      "paper_count": 2453
     },
     {
       "field_id": "https://openalex.org/fields/11",
       "field_name": "Agricultural and Biological Sciences",
-      "paper_count": 2346
+      "paper_count": 2381
     },
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 1345
+      "paper_count": 1347
     },
     {
       "field_id": "https://openalex.org/fields/31",
       "field_name": "Physics and Astronomy",
-      "paper_count": 1113
+      "paper_count": 1114
     },
     {
       "field_id": "https://openalex.org/fields/19",
       "field_name": "Earth and Planetary Sciences",
-      "paper_count": 1059
+      "paper_count": 1098
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 982
+      "paper_count": 984
     },
     {
       "field_id": "https://openalex.org/fields/16",
       "field_name": "Chemistry",
-      "paper_count": 734
+      "paper_count": 737
     },
     {
       "field_id": "https://openalex.org/fields/26",
       "field_name": "Mathematics",
-      "paper_count": 698
+      "paper_count": 701
     },
     {
       "field_id": "https://openalex.org/fields/21",
       "field_name": "Energy",
-      "paper_count": 578
+      "paper_count": 581
     },
     {
       "field_id": "https://openalex.org/fields/30",
       "field_name": "Pharmacology, Toxicology and Pharmaceutics",
-      "paper_count": 344
+      "paper_count": 345
     },
     {
       "field_id": "https://openalex.org/fields/24",
       "field_name": "Immunology and Microbiology",
-      "paper_count": 178
+      "paper_count": 180
     },
     {
       "field_id": "https://openalex.org/fields/15",
@@ -80,7 +80,7 @@
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 97
+      "paper_count": 99
     },
     {
       "field_id": "https://openalex.org/fields/20",
@@ -120,7 +120,7 @@
     {
       "field_id": "https://openalex.org/fields/34",
       "field_name": "Veterinary",
-      "paper_count": 20
+      "paper_count": 22
     },
     {
       "field_id": "https://openalex.org/fields/12",

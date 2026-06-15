@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 19879,
+    "cited_by_count": 19903,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10905,
+    "cited_by_count": 10948,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -117,7 +117,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10132,
+    "cited_by_count": 10145,
     "field": "Medicine",
     "authors": [
       {
@@ -156,12 +156,14 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8592,
+    "cited_by_count": 8593,
     "field": "Medicine",
     "authors": [
       {
         "name": "Stuart P. Weisberg",
-        "institutions": []
+        "institutions": [
+          "Columbia University"
+        ]
       },
       {
         "name": "Daniel McCann",
@@ -180,8 +182,8 @@
       {
         "name": "Rudolph L. Leibel",
         "institutions": [
-          "Columbia University",
-          "General Department of Preventive Medicine"
+          "General Department of Preventive Medicine",
+          "Columbia University"
         ]
       }
     ]
@@ -219,7 +221,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8269,
+    "cited_by_count": 8273,
     "field": "Medicine",
     "authors": [
       {
@@ -253,7 +255,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7451,
+    "cited_by_count": 7472,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -297,7 +299,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
     "year": 2018,
-    "cited_by_count": 7266,
+    "cited_by_count": 7294,
     "field": "Computer Science",
     "authors": [
       {
@@ -397,7 +399,7 @@
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 6803,
+    "cited_by_count": 6832,
     "field": "Medicine",
     "authors": [
       {
@@ -440,7 +442,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6633,
+    "cited_by_count": 6635,
     "field": "Medicine",
     "authors": [
       {
@@ -469,7 +471,7 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6496,
+    "cited_by_count": 6500,
     "field": "Medicine",
     "authors": [
       {
@@ -513,7 +515,7 @@
     "id": "https://openalex.org/W2560322684",
     "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",
     "year": 2016,
-    "cited_by_count": 6307,
+    "cited_by_count": 6308,
     "field": "Medicine",
     "authors": [
       {
@@ -555,7 +557,7 @@
     "id": "https://openalex.org/W1970516435",
     "title": "Heart Disease and Stroke Statistics—2011 Update",
     "year": 2010,
-    "cited_by_count": 6168,
+    "cited_by_count": 6169,
     "field": "Medicine",
     "authors": [
       {
@@ -590,7 +592,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5603,
+    "cited_by_count": 5604,
     "field": "Medicine",
     "authors": [
       {
@@ -623,7 +625,7 @@
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5478,
+    "cited_by_count": 5485,
     "field": "Medicine",
     "authors": [
       {
@@ -693,7 +695,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5187,
+    "cited_by_count": 5188,
     "field": "Medicine",
     "authors": [
       {
@@ -800,10 +802,55 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2132260239",
+    "title": "Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome",
+    "year": 2003,
+    "cited_by_count": 4771,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Christian Drosten",
+        "institutions": [
+          "Goethe University Frankfurt",
+          "Hospital for Tropical Diseases",
+          "Bernhard Nocht Institute for Tropical Medicine"
+        ]
+      },
+      {
+        "name": "Stephan Günther",
+        "institutions": [
+          "Goethe University Frankfurt",
+          "Hospital for Tropical Diseases"
+        ]
+      },
+      {
+        "name": "Wolfgang Preiser",
+        "institutions": [
+          "Goethe University Frankfurt",
+          "Hospital for Tropical Diseases"
+        ]
+      },
+      {
+        "name": "Sylvie van der Werf",
+        "institutions": [
+          "Goethe University Frankfurt",
+          "Hospital for Tropical Diseases"
+        ]
+      },
+      {
+        "name": "Hans‐Reinhard Brodt",
+        "institutions": [
+          "Goethe University Frankfurt",
+          "Hospital for Tropical Diseases"
+        ]
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4694,
+    "cited_by_count": 4700,
     "field": "Medicine",
     "authors": [
       {
@@ -841,7 +888,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4659,
+    "cited_by_count": 4662,
     "field": "Medicine",
     "authors": [
       {
@@ -869,45 +916,6 @@
         "name": "Lisa A. Weissfeld",
         "institutions": [
           "University of Pittsburgh"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W2221264044",
-    "title": "International League of Associations for Rheumatology classification of juvenile idiopathic arthritis: second revision, Edmonton, 2001.",
-    "year": 2004,
-    "cited_by_count": 4212,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Ross E. Petty",
-        "institutions": [
-          "University of British Columbia"
-        ]
-      },
-      {
-        "name": "T. R. E. Southwood",
-        "institutions": [
-          "University of Birmingham"
-        ]
-      },
-      {
-        "name": "Prudence Manners",
-        "institutions": [
-          "The University of Western Australia"
-        ]
-      },
-      {
-        "name": "John Baum",
-        "institutions": [
-          "University of Rochester"
-        ]
-      },
-      {
-        "name": "David N. Glass",
-        "institutions": [
-          "Cincinnati Children's Hospital Medical Center"
         ]
       }
     ]

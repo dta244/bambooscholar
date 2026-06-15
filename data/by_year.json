@@ -1,164 +1,164 @@
 [
   {
     "year": 2000,
-    "paper_count": 1221,
-    "total_citations": 37530,
-    "avg_citations": 30.74
+    "paper_count": 1246,
+    "total_citations": 37924,
+    "avg_citations": 30.44
   },
   {
     "year": 2001,
-    "paper_count": 1371,
-    "total_citations": 39033,
-    "avg_citations": 28.47
+    "paper_count": 1392,
+    "total_citations": 39722,
+    "avg_citations": 28.54
   },
   {
     "year": 2002,
-    "paper_count": 1676,
-    "total_citations": 54894,
-    "avg_citations": 32.75
+    "paper_count": 1701,
+    "total_citations": 55921,
+    "avg_citations": 32.88
   },
   {
     "year": 2003,
-    "paper_count": 1786,
-    "total_citations": 62036,
-    "avg_citations": 34.73
+    "paper_count": 1809,
+    "total_citations": 67158,
+    "avg_citations": 37.12
   },
   {
     "year": 2004,
-    "paper_count": 1613,
-    "total_citations": 52632,
-    "avg_citations": 32.63
+    "paper_count": 1636,
+    "total_citations": 53787,
+    "avg_citations": 32.88
   },
   {
     "year": 2005,
-    "paper_count": 1729,
-    "total_citations": 57662,
-    "avg_citations": 33.35
+    "paper_count": 1750,
+    "total_citations": 58471,
+    "avg_citations": 33.41
   },
   {
     "year": 2006,
-    "paper_count": 2063,
-    "total_citations": 72929,
-    "avg_citations": 35.35
+    "paper_count": 2094,
+    "total_citations": 74104,
+    "avg_citations": 35.39
   },
   {
     "year": 2007,
-    "paper_count": 2118,
-    "total_citations": 68832,
-    "avg_citations": 32.5
+    "paper_count": 2159,
+    "total_citations": 69716,
+    "avg_citations": 32.29
   },
   {
     "year": 2008,
-    "paper_count": 2627,
-    "total_citations": 77407,
-    "avg_citations": 29.47
+    "paper_count": 2677,
+    "total_citations": 80512,
+    "avg_citations": 30.08
   },
   {
     "year": 2009,
-    "paper_count": 3159,
-    "total_citations": 97824,
-    "avg_citations": 30.97
+    "paper_count": 3182,
+    "total_citations": 99789,
+    "avg_citations": 31.36
   },
   {
     "year": 2010,
-    "paper_count": 3206,
-    "total_citations": 109464,
-    "avg_citations": 34.14
+    "paper_count": 3252,
+    "total_citations": 111003,
+    "avg_citations": 34.13
   },
   {
     "year": 2011,
-    "paper_count": 3898,
-    "total_citations": 115024,
-    "avg_citations": 29.51
+    "paper_count": 3937,
+    "total_citations": 115804,
+    "avg_citations": 29.41
   },
   {
     "year": 2012,
-    "paper_count": 4623,
-    "total_citations": 119369,
-    "avg_citations": 25.82
+    "paper_count": 4668,
+    "total_citations": 120216,
+    "avg_citations": 25.75
   },
   {
     "year": 2013,
-    "paper_count": 5476,
-    "total_citations": 168269,
-    "avg_citations": 30.73
+    "paper_count": 5526,
+    "total_citations": 171058,
+    "avg_citations": 30.96
   },
   {
     "year": 2014,
-    "paper_count": 6353,
-    "total_citations": 186778,
-    "avg_citations": 29.4
+    "paper_count": 6430,
+    "total_citations": 191705,
+    "avg_citations": 29.81
   },
   {
     "year": 2015,
-    "paper_count": 6844,
-    "total_citations": 265610,
-    "avg_citations": 38.81
+    "paper_count": 6945,
+    "total_citations": 272913,
+    "avg_citations": 39.3
   },
   {
     "year": 2016,
-    "paper_count": 8315,
-    "total_citations": 310546,
-    "avg_citations": 37.35
+    "paper_count": 8395,
+    "total_citations": 315793,
+    "avg_citations": 37.62
   },
   {
     "year": 2017,
-    "paper_count": 9824,
-    "total_citations": 417948,
-    "avg_citations": 42.54
+    "paper_count": 9905,
+    "total_citations": 424215,
+    "avg_citations": 42.83
   },
   {
     "year": 2018,
-    "paper_count": 12197,
-    "total_citations": 618117,
-    "avg_citations": 50.68
+    "paper_count": 12276,
+    "total_citations": 624988,
+    "avg_citations": 50.91
   },
   {
     "year": 2019,
-    "paper_count": 17288,
-    "total_citations": 1176476,
-    "avg_citations": 68.05
+    "paper_count": 17348,
+    "total_citations": 1184975,
+    "avg_citations": 68.31
   },
   {
     "year": 2020,
-    "paper_count": 23771,
-    "total_citations": 2199193,
-    "avg_citations": 92.52
+    "paper_count": 23835,
+    "total_citations": 2213780,
+    "avg_citations": 92.88
   },
   {
     "year": 2021,
-    "paper_count": 24266,
-    "total_citations": 1405646,
-    "avg_citations": 57.93
+    "paper_count": 24331,
+    "total_citations": 1413733,
+    "avg_citations": 58.1
   },
   {
     "year": 2022,
-    "paper_count": 24412,
-    "total_citations": 1039033,
-    "avg_citations": 42.56
+    "paper_count": 24494,
+    "total_citations": 1048931,
+    "avg_citations": 42.82
   },
   {
     "year": 2023,
-    "paper_count": 27269,
-    "total_citations": 804577,
-    "avg_citations": 29.51
+    "paper_count": 27329,
+    "total_citations": 812185,
+    "avg_citations": 29.72
   },
   {
     "year": 2024,
-    "paper_count": 30269,
-    "total_citations": 523780,
-    "avg_citations": 17.3
+    "paper_count": 30333,
+    "total_citations": 532423,
+    "avg_citations": 17.55
   },
   {
     "year": 2025,
-    "paper_count": 37041,
-    "total_citations": 248834,
-    "avg_citations": 6.72
+    "paper_count": 37302,
+    "total_citations": 262561,
+    "avg_citations": 7.04
   },
   {
     "year": 2026,
-    "paper_count": 19716,
-    "total_citations": 6679,
-    "avg_citations": 0.34
+    "paper_count": 20786,
+    "total_citations": 7869,
+    "avg_citations": 0.38
   }
 ]
