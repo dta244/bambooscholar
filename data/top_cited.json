@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 19903,
+    "cited_by_count": 19973,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10948,
+    "cited_by_count": 11042,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -117,7 +117,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10145,
+    "cited_by_count": 10181,
     "field": "Medicine",
     "authors": [
       {
@@ -135,7 +135,8 @@
       {
         "name": "Oliver J. Brady",
         "institutions": [
-          "University of Oxford"
+          "University of Oxford",
+          "Oxitec (United Kingdom)"
         ]
       },
       {
@@ -156,7 +157,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8593,
+    "cited_by_count": 8594,
     "field": "Medicine",
     "authors": [
       {
@@ -221,7 +222,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8273,
+    "cited_by_count": 8280,
     "field": "Medicine",
     "authors": [
       {
@@ -255,7 +256,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7472,
+    "cited_by_count": 7505,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -299,7 +300,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
     "year": 2018,
-    "cited_by_count": 7294,
+    "cited_by_count": 7360,
     "field": "Computer Science",
     "authors": [
       {
@@ -339,7 +340,7 @@
     "id": "https://openalex.org/W2012154384",
     "title": "Heart Disease and Stroke Statistics—2012 Update",
     "year": 2011,
-    "cited_by_count": 7231,
+    "cited_by_count": 7234,
     "field": "Medicine",
     "authors": [
       {
@@ -399,7 +400,7 @@
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 6832,
+    "cited_by_count": 6880,
     "field": "Medicine",
     "authors": [
       {
@@ -442,7 +443,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6635,
+    "cited_by_count": 6639,
     "field": "Medicine",
     "authors": [
       {
@@ -471,7 +472,7 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6500,
+    "cited_by_count": 6510,
     "field": "Medicine",
     "authors": [
       {
@@ -515,7 +516,7 @@
     "id": "https://openalex.org/W2560322684",
     "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",
     "year": 2016,
-    "cited_by_count": 6308,
+    "cited_by_count": 6311,
     "field": "Medicine",
     "authors": [
       {
@@ -557,7 +558,7 @@
     "id": "https://openalex.org/W1970516435",
     "title": "Heart Disease and Stroke Statistics—2011 Update",
     "year": 2010,
-    "cited_by_count": 6169,
+    "cited_by_count": 6168,
     "field": "Medicine",
     "authors": [
       {
@@ -592,7 +593,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5604,
+    "cited_by_count": 5605,
     "field": "Medicine",
     "authors": [
       {
@@ -625,7 +626,7 @@
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5485,
+    "cited_by_count": 5502,
     "field": "Medicine",
     "authors": [
       {
@@ -726,7 +727,7 @@
     "id": "https://openalex.org/W3010930696",
     "title": "RETRACTED: Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
     "year": 2020,
-    "cited_by_count": 4955,
+    "cited_by_count": 4959,
     "field": "Medicine",
     "authors": [
       {
@@ -774,7 +775,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4953,
+    "cited_by_count": 4959,
     "field": "Medicine",
     "authors": [
       {
@@ -805,7 +806,7 @@
     "id": "https://openalex.org/W2132260239",
     "title": "Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome",
     "year": 2003,
-    "cited_by_count": 4771,
+    "cited_by_count": 4775,
     "field": "Medicine",
     "authors": [
       {
@@ -850,7 +851,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4700,
+    "cited_by_count": 4703,
     "field": "Medicine",
     "authors": [
       {
@@ -888,7 +889,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4662,
+    "cited_by_count": 4668,
     "field": "Medicine",
     "authors": [
       {
