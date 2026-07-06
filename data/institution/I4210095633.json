@@ -5,12 +5,12 @@
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 7366
+      "paper_count": 7375
     },
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 977
+      "paper_count": 980
     },
     {
       "field_id": "https://openalex.org/fields/13",
@@ -35,7 +35,7 @@
     {
       "field_id": "https://openalex.org/fields/35",
       "field_name": "Dentistry",
-      "paper_count": 275
+      "paper_count": 278
     },
     {
       "field_id": "https://openalex.org/fields/20",
