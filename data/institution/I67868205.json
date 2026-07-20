@@ -5,37 +5,37 @@
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1361
+      "paper_count": 1366
     },
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 1076
+      "paper_count": 1083
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 894
+      "paper_count": 897
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 663
+      "paper_count": 666
     },
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 458
+      "paper_count": 460
     },
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 431
+      "paper_count": 432
     },
     {
       "field_id": "https://openalex.org/fields/31",
       "field_name": "Physics and Astronomy",
-      "paper_count": 369
+      "paper_count": 371
     },
     {
       "field_id": "https://openalex.org/fields/11",
@@ -50,7 +50,7 @@
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 293
+      "paper_count": 295
     },
     {
       "field_id": "https://openalex.org/fields/16",
@@ -60,7 +60,7 @@
     {
       "field_id": "https://openalex.org/fields/26",
       "field_name": "Mathematics",
-      "paper_count": 235
+      "paper_count": 236
     },
     {
       "field_id": "https://openalex.org/fields/21",
@@ -85,12 +85,12 @@
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 65
+      "paper_count": 66
     },
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 64
+      "paper_count": 65
     },
     {
       "field_id": "https://openalex.org/fields/30",
