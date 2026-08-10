@@ -5,47 +5,52 @@
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 7516
+      "paper_count": 7541
     },
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 1015
+      "paper_count": 1031
     },
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 794
+      "paper_count": 806
     },
     {
       "field_id": "https://openalex.org/fields/33",
       "field_name": "Social Sciences",
-      "paper_count": 386
+      "paper_count": 388
     },
     {
       "field_id": "https://openalex.org/fields/24",
       "field_name": "Immunology and Microbiology",
-      "paper_count": 336
+      "paper_count": 333
     },
     {
       "field_id": "https://openalex.org/fields/32",
       "field_name": "Psychology",
-      "paper_count": 318
+      "paper_count": 319
     },
     {
       "field_id": "https://openalex.org/fields/35",
       "field_name": "Dentistry",
-      "paper_count": 280
+      "paper_count": 301
     },
     {
       "field_id": "https://openalex.org/fields/20",
       "field_name": "Economics, Econometrics and Finance",
-      "paper_count": 246
+      "paper_count": 247
     },
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 161
+      "paper_count": 167
+    },
+    {
+      "field_id": "https://openalex.org/fields/29",
+      "field_name": "Nursing",
+      "paper_count": 157
     },
     {
       "field_id": "https://openalex.org/fields/11",
@@ -53,39 +58,34 @@
       "paper_count": 155
     },
     {
-      "field_id": "https://openalex.org/fields/29",
-      "field_name": "Nursing",
-      "paper_count": 154
-    },
-    {
       "field_id": "https://openalex.org/fields/28",
       "field_name": "Neuroscience",
-      "paper_count": 131
+      "paper_count": 133
     },
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 91
-    },
-    {
-      "field_id": "https://openalex.org/fields/30",
-      "field_name": "Pharmacology, Toxicology and Pharmaceutics",
-      "paper_count": 70
+      "paper_count": 95
     },
     {
       "field_id": "https://openalex.org/fields/14",
       "field_name": "Business, Management and Accounting",
-      "paper_count": 67
+      "paper_count": 68
+    },
+    {
+      "field_id": "https://openalex.org/fields/30",
+      "field_name": "Pharmacology, Toxicology and Pharmaceutics",
+      "paper_count": 68
     },
     {
       "field_id": "https://openalex.org/fields/12",
       "field_name": "Arts and Humanities",
-      "paper_count": 57
+      "paper_count": 58
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 48
+      "paper_count": 47
     },
     {
       "field_id": "https://openalex.org/fields/26",
@@ -93,23 +93,23 @@
       "paper_count": 47
     },
     {
+      "field_id": "https://openalex.org/fields/16",
+      "field_name": "Chemistry",
+      "paper_count": 37
+    },
+    {
       "field_id": "https://openalex.org/fields/18",
       "field_name": "Decision Sciences",
       "paper_count": 37
     },
     {
-      "field_id": "https://openalex.org/fields/16",
-      "field_name": "Chemistry",
-      "paper_count": 36
+      "field_id": "https://openalex.org/fields/34",
+      "field_name": "Veterinary",
+      "paper_count": 32
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 32
-    },
-    {
-      "field_id": "https://openalex.org/fields/34",
-      "field_name": "Veterinary",
       "paper_count": 31
     },
     {
@@ -126,6 +126,11 @@
       "field_id": "https://openalex.org/fields/19",
       "field_name": "Earth and Planetary Sciences",
       "paper_count": 2
+    },
+    {
+      "field_id": "https://openalex.org/fields/15",
+      "field_name": "Chemical Engineering",
+      "paper_count": 1
     }
   ]
 }
