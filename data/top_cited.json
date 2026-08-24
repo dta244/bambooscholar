@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 20266,
+    "cited_by_count": 20304,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -46,7 +46,7 @@
     "id": "https://openalex.org/W2477872031",
     "title": "Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)",
     "year": 2002,
-    "cited_by_count": 12225,
+    "cited_by_count": 12224,
     "field": "Medicine",
     "authors": [
       {
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 11383,
+    "cited_by_count": 11434,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -117,7 +117,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10306,
+    "cited_by_count": 10320,
     "field": "Medicine",
     "authors": [
       {
@@ -157,7 +157,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8606,
+    "cited_by_count": 8607,
     "field": "Medicine",
     "authors": [
       {
@@ -222,7 +222,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8317,
+    "cited_by_count": 8326,
     "field": "Medicine",
     "authors": [
       {
@@ -254,9 +254,9 @@
   },
   {
     "id": "https://openalex.org/W2757803490",
-    "title": "Advanced capabilities for materials modelling with Q <scp>uantum</scp> ESPRESSO",
+    "title": "Advanced capabilities for materials modelling with Q uantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7667,
+    "cited_by_count": 7692,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -295,9 +295,9 @@
   },
   {
     "id": "https://openalex.org/W2888532099",
-    "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package<sup>*</sup>",
+    "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
     "year": 2018,
-    "cited_by_count": 7574,
+    "cited_by_count": 7599,
     "field": "Computer Science",
     "authors": [
       {
@@ -368,7 +368,7 @@
     "id": "https://openalex.org/W2019071303",
     "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
     "year": 2013,
-    "cited_by_count": 7119,
+    "cited_by_count": 7120,
     "field": "Medicine",
     "authors": [
       {
@@ -397,7 +397,7 @@
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 7032,
+    "cited_by_count": 7047,
     "field": "Medicine",
     "authors": [
       {
@@ -469,7 +469,7 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6540,
+    "cited_by_count": 6542,
     "field": "Medicine",
     "authors": [
       {
@@ -513,7 +513,7 @@
     "id": "https://openalex.org/W2560322684",
     "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",
     "year": 2016,
-    "cited_by_count": 6330,
+    "cited_by_count": 6332,
     "field": "Medicine",
     "authors": [
       {
@@ -623,7 +623,7 @@
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5565,
+    "cited_by_count": 5574,
     "field": "Medicine",
     "authors": [
       {
@@ -664,28 +664,38 @@
     "id": "https://openalex.org/W2000949542",
     "title": "Heart Disease and Stroke Statistics—2014 Update",
     "year": 2013,
-    "cited_by_count": 5235,
+    "cited_by_count": 5236,
     "field": "Medicine",
     "authors": [
       {
         "name": "Alan S. Go",
-        "institutions": []
+        "institutions": [
+          "Patient-Centered Outcomes Research Institute"
+        ]
       },
       {
         "name": "Dariush Mozaffarian",
-        "institutions": []
+        "institutions": [
+          "National Institute of Academic Anaesthesia"
+        ]
       },
       {
         "name": "Véronique L. Roger",
-        "institutions": []
+        "institutions": [
+          "Patient-Centered Outcomes Research Institute"
+        ]
       },
       {
         "name": "Emelia J. Benjamin",
-        "institutions": []
+        "institutions": [
+          "National Institute of Academic Anaesthesia"
+        ]
       },
       {
         "name": "Jarett D. Berry",
-        "institutions": []
+        "institutions": [
+          "University of California, San Francisco"
+        ]
       }
     ]
   },
@@ -693,7 +703,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5207,
+    "cited_by_count": 5209,
     "field": "Medicine",
     "authors": [
       {
@@ -722,9 +732,9 @@
   },
   {
     "id": "https://openalex.org/W2168536722",
-    "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
+    "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4979,
+    "cited_by_count": 4985,
     "field": "Medicine",
     "authors": [
       {
@@ -803,7 +813,7 @@
     "id": "https://openalex.org/W2132260239",
     "title": "Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome",
     "year": 2003,
-    "cited_by_count": 4786,
+    "cited_by_count": 4787,
     "field": "Medicine",
     "authors": [
       {
@@ -848,7 +858,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4740,
+    "cited_by_count": 4746,
     "field": "Medicine",
     "authors": [
       {
@@ -860,12 +870,16 @@
       },
       {
         "name": "N. Khaltaev",
-        "institutions": []
+        "institutions": [
+          "Global Antibiotic Research & Development Partnership"
+        ]
       },
       {
         "name": "Álvaro A. Cruz",
         "institutions": [
-          "Universidade Federal da Bahia"
+          "Universidade Federal da Bahia",
+          "Inserm",
+          "Hôpital Arnaud de Villeneuve"
         ]
       },
       {
