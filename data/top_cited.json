@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 20304,
+    "cited_by_count": 20337,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 11434,
+    "cited_by_count": 11469,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -117,7 +117,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10320,
+    "cited_by_count": 10339,
     "field": "Medicine",
     "authors": [
       {
@@ -136,7 +136,7 @@
         "name": "Oliver J. Brady",
         "institutions": [
           "University of Oxford",
-          "Oxitec (United Kingdom)"
+          "Flyttr Ltd (United Kingdom)"
         ]
       },
       {
@@ -157,7 +157,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8607,
+    "cited_by_count": 8606,
     "field": "Medicine",
     "authors": [
       {
@@ -222,7 +222,7 @@
     "id": "https://openalex.org/W4249727000",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8326,
+    "cited_by_count": 8334,
     "field": "Medicine",
     "authors": [
       {
@@ -256,7 +256,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Q uantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7692,
+    "cited_by_count": 7719,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -297,7 +297,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
     "year": 2018,
-    "cited_by_count": 7599,
+    "cited_by_count": 7625,
     "field": "Computer Science",
     "authors": [
       {
@@ -368,7 +368,7 @@
     "id": "https://openalex.org/W2019071303",
     "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
     "year": 2013,
-    "cited_by_count": 7120,
+    "cited_by_count": 7123,
     "field": "Medicine",
     "authors": [
       {
@@ -397,7 +397,7 @@
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 7047,
+    "cited_by_count": 7074,
     "field": "Medicine",
     "authors": [
       {
@@ -440,7 +440,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6650,
+    "cited_by_count": 6653,
     "field": "Medicine",
     "authors": [
       {
@@ -469,7 +469,7 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6542,
+    "cited_by_count": 6548,
     "field": "Medicine",
     "authors": [
       {
@@ -590,7 +590,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5609,
+    "cited_by_count": 5610,
     "field": "Medicine",
     "authors": [
       {
@@ -623,7 +623,7 @@
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5574,
+    "cited_by_count": 5584,
     "field": "Medicine",
     "authors": [
       {
@@ -664,7 +664,7 @@
     "id": "https://openalex.org/W2000949542",
     "title": "Heart Disease and Stroke Statistics—2014 Update",
     "year": 2013,
-    "cited_by_count": 5236,
+    "cited_by_count": 5238,
     "field": "Medicine",
     "authors": [
       {
@@ -703,7 +703,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5209,
+    "cited_by_count": 5213,
     "field": "Medicine",
     "authors": [
       {
@@ -734,7 +734,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4985,
+    "cited_by_count": 4986,
     "field": "Medicine",
     "authors": [
       {
@@ -813,7 +813,7 @@
     "id": "https://openalex.org/W2132260239",
     "title": "Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome",
     "year": 2003,
-    "cited_by_count": 4787,
+    "cited_by_count": 4788,
     "field": "Medicine",
     "authors": [
       {
@@ -858,7 +858,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4746,
+    "cited_by_count": 4750,
     "field": "Medicine",
     "authors": [
       {
@@ -900,7 +900,7 @@
     "id": "https://openalex.org/W2320270386",
     "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
     "year": 1997,
-    "cited_by_count": 4686,
+    "cited_by_count": 4688,
     "field": "Medicine",
     "authors": [
       {

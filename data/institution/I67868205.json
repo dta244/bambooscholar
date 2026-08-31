@@ -5,32 +5,32 @@
     {
       "field_id": "https://openalex.org/fields/23",
       "field_name": "Environmental Science",
-      "paper_count": 1449
+      "paper_count": 1451
     },
     {
       "field_id": "https://openalex.org/fields/22",
       "field_name": "Engineering",
-      "paper_count": 1111
+      "paper_count": 1117
     },
     {
       "field_id": "https://openalex.org/fields/17",
       "field_name": "Computer Science",
-      "paper_count": 925
+      "paper_count": 924
     },
     {
       "field_id": "https://openalex.org/fields/25",
       "field_name": "Materials Science",
-      "paper_count": 685
+      "paper_count": 687
     },
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 508
+      "paper_count": 515
     },
     {
       "field_id": "https://openalex.org/fields/13",
       "field_name": "Biochemistry, Genetics and Molecular Biology",
-      "paper_count": 457
+      "paper_count": 456
     },
     {
       "field_id": "https://openalex.org/fields/31",
@@ -55,12 +55,12 @@
     {
       "field_id": "https://openalex.org/fields/16",
       "field_name": "Chemistry",
-      "paper_count": 303
+      "paper_count": 304
     },
     {
       "field_id": "https://openalex.org/fields/26",
       "field_name": "Mathematics",
-      "paper_count": 250
+      "paper_count": 251
     },
     {
       "field_id": "https://openalex.org/fields/21",
@@ -80,7 +80,7 @@
     {
       "field_id": "https://openalex.org/fields/14",
       "field_name": "Business, Management and Accounting",
-      "paper_count": 78
+      "paper_count": 79
     },
     {
       "field_id": "https://openalex.org/fields/32",
@@ -90,12 +90,12 @@
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 70
+      "paper_count": 71
     },
     {
       "field_id": "https://openalex.org/fields/30",
       "field_name": "Pharmacology, Toxicology and Pharmaceutics",
-      "paper_count": 51
+      "paper_count": 50
     },
     {
       "field_id": "https://openalex.org/fields/24",
