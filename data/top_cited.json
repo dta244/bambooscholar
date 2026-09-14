@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 20379,
+    "cited_by_count": 20396,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -46,7 +46,7 @@
     "id": "https://openalex.org/W2477872031",
     "title": "Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)",
     "year": 2002,
-    "cited_by_count": 12224,
+    "cited_by_count": 12220,
     "field": "Medicine",
     "authors": [
       {
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 11509,
+    "cited_by_count": 11507,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -117,7 +117,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10364,
+    "cited_by_count": 10379,
     "field": "Medicine",
     "authors": [
       {
@@ -157,7 +157,7 @@
     "id": "https://openalex.org/W2008869160",
     "title": "Obesity is associated with macrophage accumulation in adipose tissue",
     "year": 2003,
-    "cited_by_count": 8608,
+    "cited_by_count": 8604,
     "field": "Medicine",
     "authors": [
       {
@@ -190,10 +190,53 @@
     ]
   },
   {
+    "id": "https://openalex.org/W4249727000",
+    "title": "Obesity is associated with macrophage accumulation in adipose tissue",
+    "year": 2003,
+    "cited_by_count": 8346,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Stuart P. Weisberg",
+        "institutions": [
+          "Laboratory of Molecular Genetics",
+          "Institute of Molecular Genetics"
+        ]
+      },
+      {
+        "name": "Daniel McCann",
+        "institutions": [
+          "Laboratory of Molecular Genetics",
+          "Institute of Molecular Genetics"
+        ]
+      },
+      {
+        "name": "Manisha Desai",
+        "institutions": [
+          "Cancer Research And Biostatistics"
+        ]
+      },
+      {
+        "name": "Michael Rosenbaum",
+        "institutions": [
+          "Laboratory of Molecular Genetics",
+          "Institute of Molecular Genetics"
+        ]
+      },
+      {
+        "name": "Rudolph L. Leibel",
+        "institutions": [
+          "General Department of Preventive Medicine",
+          "Columbia University"
+        ]
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2108790161",
     "title": "Heart disease and stroke statistics--2015 update: a report from the American Heart Association.",
     "year": 2015,
-    "cited_by_count": 8341,
+    "cited_by_count": 8335,
     "field": "Medicine",
     "authors": [
       {
@@ -219,53 +262,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W4249727000",
-    "title": "Obesity is associated with macrophage accumulation in adipose tissue",
-    "year": 2003,
-    "cited_by_count": 8338,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Stuart P. Weisberg",
-        "institutions": [
-          "Laboratory of Molecular Genetics",
-          "Institute of Molecular Genetics"
-        ]
-      },
-      {
-        "name": "Daniel McCann",
-        "institutions": [
-          "Laboratory of Molecular Genetics",
-          "Institute of Molecular Genetics"
-        ]
-      },
-      {
-        "name": "Manisha Desai",
-        "institutions": [
-          "Cancer Research And Biostatistics"
-        ]
-      },
-      {
-        "name": "Michael Rosenbaum",
-        "institutions": [
-          "Laboratory of Molecular Genetics",
-          "Institute of Molecular Genetics"
-        ]
-      },
-      {
-        "name": "Rudolph L. Leibel",
-        "institutions": [
-          "General Department of Preventive Medicine",
-          "Columbia University"
-        ]
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Q uantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7752,
+    "cited_by_count": 7788,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -306,7 +306,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
     "year": 2018,
-    "cited_by_count": 7646,
+    "cited_by_count": 7663,
     "field": "Computer Science",
     "authors": [
       {
@@ -346,7 +346,7 @@
     "id": "https://openalex.org/W2012154384",
     "title": "Heart Disease and Stroke Statistics—2012 Update",
     "year": 2011,
-    "cited_by_count": 7248,
+    "cited_by_count": 7241,
     "field": "Medicine",
     "authors": [
       {
@@ -374,39 +374,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2019071303",
-    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
-    "year": 2013,
-    "cited_by_count": 7128,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Neil J. Stone",
-        "institutions": []
-      },
-      {
-        "name": "Jennifer G. Robinson",
-        "institutions": []
-      },
-      {
-        "name": "Alice H. Lichtenstein",
-        "institutions": []
-      },
-      {
-        "name": "C. Noel Bairey Merz",
-        "institutions": []
-      },
-      {
-        "name": "Conrad B. Blum",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2974260792",
     "title": "Dapagliflozin in Patients with Heart Failure and Reduced Ejection Fraction",
     "year": 2019,
-    "cited_by_count": 7089,
+    "cited_by_count": 7116,
     "field": "Medicine",
     "authors": [
       {
@@ -446,10 +417,39 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2019071303",
+    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
+    "year": 2013,
+    "cited_by_count": 7113,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Neil J. Stone",
+        "institutions": []
+      },
+      {
+        "name": "Jennifer G. Robinson",
+        "institutions": []
+      },
+      {
+        "name": "Alice H. Lichtenstein",
+        "institutions": []
+      },
+      {
+        "name": "C. Noel Bairey Merz",
+        "institutions": []
+      },
+      {
+        "name": "Conrad B. Blum",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6655,
+    "cited_by_count": 6653,
     "field": "Medicine",
     "authors": [
       {
@@ -478,7 +478,7 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6552,
+    "cited_by_count": 6550,
     "field": "Medicine",
     "authors": [
       {
@@ -564,7 +564,7 @@
     "id": "https://openalex.org/W1970516435",
     "title": "Heart Disease and Stroke Statistics—2011 Update",
     "year": 2010,
-    "cited_by_count": 6179,
+    "cited_by_count": 6176,
     "field": "Medicine",
     "authors": [
       {
@@ -596,43 +596,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2614781785",
-    "title": "Heart Disease and Stroke Statistics—2010 Update",
-    "year": 2009,
-    "cited_by_count": 5610,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "WRITING GROUP MEMBERS",
-        "institutions": [
-          "General Department of Preventive Medicine"
-        ]
-      },
-      {
-        "name": "Donald M. Lloyd‐Jones",
-        "institutions": []
-      },
-      {
-        "name": "Robert J. Adams",
-        "institutions": []
-      },
-      {
-        "name": "Todd M. Brown",
-        "institutions": [
-          "General Department of Preventive Medicine"
-        ]
-      },
-      {
-        "name": "Mercedes R. Carnethon",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5596,
+    "cited_by_count": 5607,
     "field": "Medicine",
     "authors": [
       {
@@ -670,10 +637,80 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2614781785",
+    "title": "Heart Disease and Stroke Statistics—2010 Update",
+    "year": 2009,
+    "cited_by_count": 5604,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "WRITING GROUP MEMBERS",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": []
+      },
+      {
+        "name": "Robert J. Adams",
+        "institutions": []
+      },
+      {
+        "name": "Todd M. Brown",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Mercedes R. Carnethon",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W1991330646",
+    "title": "Mauve: Multiple Alignment of Conserved Genomic Sequence With Rearrangements",
+    "year": 2004,
+    "cited_by_count": 5279,
+    "field": "Biochemistry, Genetics and Molecular Biology",
+    "authors": [
+      {
+        "name": "Aaron E. Darling",
+        "institutions": [
+          "University of Wisconsin–Madison"
+        ]
+      },
+      {
+        "name": "Bob Mau",
+        "institutions": [
+          "Department of Animal Health",
+          "Molecular Oncology (United States)"
+        ]
+      },
+      {
+        "name": "Frederick R. Blattner",
+        "institutions": [
+          "University of Wisconsin–Madison",
+          "Energy Center of Wisconsin"
+        ]
+      },
+      {
+        "name": "Nicole T. Perna",
+        "institutions": [
+          "University of Wisconsin–Madison",
+          "Department of Animal Health",
+          "Energy Center of Wisconsin"
+        ]
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2000949542",
     "title": "Heart Disease and Stroke Statistics—2014 Update",
     "year": 2013,
-    "cited_by_count": 5238,
+    "cited_by_count": 5235,
     "field": "Medicine",
     "authors": [
       {
@@ -712,7 +749,7 @@
     "id": "https://openalex.org/W2124247204",
     "title": "Guidelines for the Prevention of Stroke in Patients With Stroke and Transient Ischemic Attack",
     "year": 2014,
-    "cited_by_count": 5216,
+    "cited_by_count": 5214,
     "field": "Medicine",
     "authors": [
       {
@@ -743,7 +780,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4989,
+    "cited_by_count": 4984,
     "field": "Medicine",
     "authors": [
       {
@@ -774,7 +811,7 @@
     "id": "https://openalex.org/W3010930696",
     "title": "RETRACTED: Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
     "year": 2020,
-    "cited_by_count": 4968,
+    "cited_by_count": 4965,
     "field": "Medicine",
     "authors": [
       {
@@ -822,7 +859,7 @@
     "id": "https://openalex.org/W2132260239",
     "title": "Identification of a Novel Coronavirus in Patients with Severe Acute Respiratory Syndrome",
     "year": 2003,
-    "cited_by_count": 4789,
+    "cited_by_count": 4785,
     "field": "Medicine",
     "authors": [
       {
@@ -867,7 +904,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4754,
+    "cited_by_count": 4751,
     "field": "Medicine",
     "authors": [
       {
@@ -901,42 +938,6 @@
         "name": "Wytske J. Fokkens",
         "institutions": [
           "Amsterdam UMC Location University of Amsterdam"
-        ]
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W2320270386",
-    "title": "A Prediction Rule to Identify Low-Risk Patients with Community-Acquired Pneumonia",
-    "year": 1997,
-    "cited_by_count": 4690,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Michael J. Fine",
-        "institutions": [
-          "University of Pittsburgh",
-          "General Department of Preventive Medicine"
-        ]
-      },
-      {
-        "name": "Thomas E. Auble",
-        "institutions": []
-      },
-      {
-        "name": "Donald M. Yealy",
-        "institutions": []
-      },
-      {
-        "name": "Barbara H. Hanusa",
-        "institutions": [
-          "General Department of Preventive Medicine"
-        ]
-      },
-      {
-        "name": "Lisa A. Weissfeld",
-        "institutions": [
-          "University of Pittsburgh"
         ]
       }
     ]
