@@ -5,12 +5,12 @@
     {
       "field_id": "https://openalex.org/fields/27",
       "field_name": "Medicine",
-      "paper_count": 7855
+      "paper_count": 7873
     },
     {
       "field_id": "https://openalex.org/fields/36",
       "field_name": "Health Professions",
-      "paper_count": 1031
+      "paper_count": 1034
     },
     {
       "field_id": "https://openalex.org/fields/13",
@@ -30,7 +30,7 @@
     {
       "field_id": "https://openalex.org/fields/35",
       "field_name": "Dentistry",
-      "paper_count": 344
+      "paper_count": 345
     },
     {
       "field_id": "https://openalex.org/fields/32",
@@ -40,7 +40,7 @@
     {
       "field_id": "https://openalex.org/fields/20",
       "field_name": "Economics, Econometrics and Finance",
-      "paper_count": 239
+      "paper_count": 238
     },
     {
       "field_id": "https://openalex.org/fields/11",
@@ -75,7 +75,7 @@
     {
       "field_id": "https://openalex.org/fields/14",
       "field_name": "Business, Management and Accounting",
-      "paper_count": 65
+      "paper_count": 64
     },
     {
       "field_id": "https://openalex.org/fields/12",
