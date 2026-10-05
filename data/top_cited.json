@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 20477,
+    "cited_by_count": 20513,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 11657,
+    "cited_by_count": 11716,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -122,7 +122,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10436,
+    "cited_by_count": 10456,
     "field": "Medicine",
     "authors": [
       {
@@ -162,7 +162,7 @@
     "id": "https://openalex.org/W2108790161",
     "title": "Heart disease and stroke statistics--2015 update: a report from the American Heart Association.",
     "year": 2015,
-    "cited_by_count": 8330,
+    "cited_by_count": 8331,
     "field": "Medicine",
     "authors": [
       {
@@ -191,7 +191,7 @@
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Q uantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7851,
+    "cited_by_count": 7835,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -214,7 +214,7 @@
         ]
       },
       {
-        "name": "O Bunau",
+        "name": "O. Bunău",
         "institutions": [
           "Sorbonne Université",
           "Université Pierre-et-Marie-Curie"
@@ -232,7 +232,7 @@
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
     "year": 2018,
-    "cited_by_count": 7697,
+    "cited_by_count": 7696,
     "field": "Computer Science",
     "authors": [
       {
@@ -271,7 +271,7 @@
     "id": "https://openalex.org/W2012154384",
     "title": "Heart Disease and Stroke Statistics—2012 Update",
     "year": 2011,
-    "cited_by_count": 7237,
+    "cited_by_count": 7241,
     "field": "Medicine",
     "authors": [
       {
@@ -331,7 +331,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6660,
+    "cited_by_count": 6661,
     "field": "Medicine",
     "authors": [
       {
@@ -360,8 +360,8 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6579,
-    "field": "Medicine",
+    "cited_by_count": 6580,
+    "field": "Health Professions",
     "authors": [
       {
         "name": "Theo Vos",
@@ -410,7 +410,7 @@
         ]
       },
       {
-        "name": "Christine A. Allen",
+        "name": "Christine Allen",
         "institutions": [
           "University of Washington",
           "Institute for Health Metrics and Evaluation"
@@ -441,7 +441,7 @@
     "id": "https://openalex.org/W1970516435",
     "title": "Heart Disease and Stroke Statistics—2011 Update",
     "year": 2010,
-    "cited_by_count": 6173,
+    "cited_by_count": 6176,
     "field": "Medicine",
     "authors": [
       {
@@ -476,7 +476,7 @@
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5961,
+    "cited_by_count": 5972,
     "field": "Medicine",
     "authors": [
       {
@@ -522,7 +522,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5602,
+    "cited_by_count": 5606,
     "field": "Medicine",
     "authors": [
       {
@@ -566,9 +566,7 @@
       },
       {
         "name": "Dariush Mozaffarian",
-        "institutions": [
-          "National Investigation Agency"
-        ]
+        "institutions": []
       },
       {
         "name": "Veronique Lee Roger",
@@ -578,9 +576,7 @@
       },
       {
         "name": "Emelia J. Benjamin",
-        "institutions": [
-          "National Investigation Agency"
-        ]
+        "institutions": []
       },
       {
         "name": "Jarett D. Berry",
@@ -594,7 +590,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4989,
+    "cited_by_count": 4990,
     "field": "Medicine",
     "authors": [
       {
@@ -625,7 +621,7 @@
     "id": "https://openalex.org/W3010930696",
     "title": "RETRACTED: Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
     "year": 2020,
-    "cited_by_count": 4967,
+    "cited_by_count": 4965,
     "field": "Medicine",
     "authors": [
       {
@@ -677,7 +673,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4757,
+    "cited_by_count": 4763,
     "field": "Medicine",
     "authors": [
       {
@@ -717,7 +713,7 @@
     "id": "https://openalex.org/W1990869665",
     "title": "Recent developments in Geant4",
     "year": 2016,
-    "cited_by_count": 4225,
+    "cited_by_count": 4203,
     "field": "Medicine",
     "authors": [
       {
@@ -757,7 +753,7 @@
     "id": "https://openalex.org/W2275877493",
     "title": "Comprehensive genomic characterization of squamous cell lung cancers",
     "year": 2012,
-    "cited_by_count": 4082,
+    "cited_by_count": 4090,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -807,7 +803,7 @@
     "id": "https://openalex.org/W3101095095",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 3749,
+    "cited_by_count": 3700,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -834,6 +830,7 @@
         "institutions": [
           "Centre National de la Recherche Scientifique",
           "Institut de minéralogie, de physique des matériaux et de cosmochimie",
+          "Institut de Recherche pour le Développement",
           "Université Pierre-et-Marie-Curie"
         ]
       },
@@ -849,7 +846,7 @@
     "id": "https://openalex.org/W1458577565",
     "title": "A review of recent developments in natural fibre composites and their mechanical performance",
     "year": 2015,
-    "cited_by_count": 3474,
+    "cited_by_count": 3483,
     "field": "Materials Science",
     "authors": [
       {
@@ -880,7 +877,7 @@
     "id": "https://openalex.org/W2130483595",
     "title": "Forecasting the Future of Cardiovascular Disease in the United States",
     "year": 2011,
-    "cited_by_count": 3249,
+    "cited_by_count": 3252,
     "field": "Medicine",
     "authors": [
       {
@@ -917,7 +914,7 @@
     "id": "https://openalex.org/W3110220146",
     "title": "Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence of avoidable blindness in relation to VISION 2020: the Right to Sight: an analysis for the Global Burden of Disease Study",
     "year": 2020,
-    "cited_by_count": 3199,
+    "cited_by_count": 3218,
     "field": "Medicine",
     "authors": [
       {
