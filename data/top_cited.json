@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 18176,
+    "cited_by_count": 18170,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -27,14 +27,14 @@
         ]
       },
       {
-        "name": "David M. Altshuler",
+        "name": "David Altshuler",
         "institutions": [
           "Wellcome Sanger Institute",
           "Vertex Pharmaceuticals (United States)"
         ]
       },
       {
-        "name": "Richard M. Durbin",
+        "name": "Richard Michael Durbin",
         "institutions": [
           "University of Michigan",
           "Wellcome Sanger Institute"
@@ -75,7 +75,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10740,
+    "cited_by_count": 10787,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -122,7 +122,7 @@
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 9954,
+    "cited_by_count": 10006,
     "field": "Medicine",
     "authors": [
       {
@@ -159,39 +159,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2108790161",
-    "title": "Heart disease and stroke statistics--2015 update: a report from the American Heart Association.",
-    "year": 2015,
-    "cited_by_count": 8265,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Dariush Mozaffarian",
-        "institutions": []
-      },
-      {
-        "name": "Emelia J. Benjamin",
-        "institutions": []
-      },
-      {
-        "name": "Alan S. Go",
-        "institutions": []
-      },
-      {
-        "name": "Donna K. Arnett",
-        "institutions": []
-      },
-      {
-        "name": "Michael Joseph Blaha",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Q uantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 7801,
+    "cited_by_count": 8305,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -221,7 +192,7 @@
         ]
       },
       {
-        "name": "M Buongiorno Nardelli",
+        "name": "Marco Buongiorno Nardelli",
         "institutions": [
           "University of North Texas"
         ]
@@ -229,10 +200,39 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2108790161",
+    "title": "Heart disease and stroke statistics--2015 update: a report from the American Heart Association.",
+    "year": 2015,
+    "cited_by_count": 8265,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Dariush Mozaffarian",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": []
+      },
+      {
+        "name": "Donna K. Arnett",
+        "institutions": []
+      },
+      {
+        "name": "Michael Joseph Blaha",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2888532099",
     "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
     "year": 2018,
-    "cited_by_count": 7683,
+    "cited_by_count": 8125,
     "field": "Computer Science",
     "authors": [
       {
@@ -271,7 +271,7 @@
     "id": "https://openalex.org/W2012154384",
     "title": "Heart Disease and Stroke Statistics—2012 Update",
     "year": 2011,
-    "cited_by_count": 7179,
+    "cited_by_count": 7350,
     "field": "Medicine",
     "authors": [
       {
@@ -331,7 +331,7 @@
     "id": "https://openalex.org/W2196906371",
     "title": "Heart Disease and Stroke Statistics—2016 Update",
     "year": 2015,
-    "cited_by_count": 6597,
+    "cited_by_count": 6598,
     "field": "Medicine",
     "authors": [
       {
@@ -360,7 +360,7 @@
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6412,
+    "cited_by_count": 6413,
     "field": "Health Professions",
     "authors": [
       {
@@ -399,7 +399,7 @@
     "id": "https://openalex.org/W2560322684",
     "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",
     "year": 2016,
-    "cited_by_count": 6215,
+    "cited_by_count": 6217,
     "field": "Medicine",
     "authors": [
       {
@@ -441,7 +441,7 @@
     "id": "https://openalex.org/W1970516435",
     "title": "Heart Disease and Stroke Statistics—2011 Update",
     "year": 2010,
-    "cited_by_count": 6146,
+    "cited_by_count": 6148,
     "field": "Medicine",
     "authors": [
       {
@@ -476,11 +476,11 @@
     "id": "https://openalex.org/W2993259418",
     "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
     "year": 2020,
-    "cited_by_count": 5886,
+    "cited_by_count": 5893,
     "field": "Medicine",
     "authors": [
       {
-        "name": "W.J. Fokkens",
+        "name": "Wytske Johanna Fokkens",
         "institutions": [
           "Amsterdam UMC Location University of Amsterdam",
           "Amsterdam University Medical Centers"
@@ -494,7 +494,7 @@
         ]
       },
       {
-        "name": "C. Hopkins",
+        "name": "Claire L Hopkins",
         "institutions": [
           "Guy's Hospital",
           "St Thomas' Hospital",
@@ -522,7 +522,7 @@
     "id": "https://openalex.org/W2614781785",
     "title": "Heart Disease and Stroke Statistics—2010 Update",
     "year": 2009,
-    "cited_by_count": 5592,
+    "cited_by_count": 5698,
     "field": "Medicine",
     "authors": [
       {
@@ -555,7 +555,7 @@
     "id": "https://openalex.org/W3010930696",
     "title": "Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
     "year": 2020,
-    "cited_by_count": 5285,
+    "cited_by_count": 5287,
     "field": "Medicine",
     "authors": [
       {
@@ -642,7 +642,7 @@
     "id": "https://openalex.org/W2168536722",
     "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
     "year": 2013,
-    "cited_by_count": 4949,
+    "cited_by_count": 4950,
     "field": "Medicine",
     "authors": [
       {
@@ -673,7 +673,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 4738,
+    "cited_by_count": 4742,
     "field": "Medicine",
     "authors": [
       {
@@ -713,11 +713,11 @@
     "id": "https://openalex.org/W1990869665",
     "title": "Recent developments in Geant4",
     "year": 2016,
-    "cited_by_count": 4164,
+    "cited_by_count": 4174,
     "field": "Physics and Astronomy",
     "authors": [
       {
-        "name": "J. Allison",
+        "name": "John E. Allison",
         "institutions": [
           "University of Manchester"
         ]
@@ -735,14 +735,14 @@
         ]
       },
       {
-        "name": "Pedro Arce",
+        "name": "Pedro E. Arce",
         "institutions": [
           "Universidad Complutense de Madrid",
           "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas"
         ]
       },
       {
-        "name": "M. Asai",
+        "name": "Makoto Asai",
         "institutions": [
           "SLAC National Accelerator Laboratory"
         ]
@@ -753,7 +753,7 @@
     "id": "https://openalex.org/W2275877493",
     "title": "Comprehensive genomic characterization of squamous cell lung cancers",
     "year": 2012,
-    "cited_by_count": 3968,
+    "cited_by_count": 3972,
     "field": "Medicine",
     "authors": [
       {
@@ -803,7 +803,7 @@
     "id": "https://openalex.org/W3101095095",
     "title": "Advanced capabilities for materials modelling with Quantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 3597,
+    "cited_by_count": 3594,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -846,7 +846,7 @@
     "id": "https://openalex.org/W1458577565",
     "title": "A review of recent developments in natural fibre composites and their mechanical performance",
     "year": 2015,
-    "cited_by_count": 3476,
+    "cited_by_count": 3489,
     "field": "Materials Science",
     "authors": [
       {
@@ -914,7 +914,7 @@
     "id": "https://openalex.org/W3110220146",
     "title": "Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence of avoidable blindness in relation to VISION 2020: the Right to Sight: an analysis for the Global Burden of Disease Study",
     "year": 2020,
-    "cited_by_count": 3138,
+    "cited_by_count": 3156,
     "field": "Medicine",
     "authors": [
       {
