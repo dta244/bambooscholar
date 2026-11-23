@@ -2,183 +2,183 @@
   {
     "field_id": "https://openalex.org/fields/27",
     "field_name": "Medicine",
-    "paper_count": 51611,
-    "total_citations": 5910419,
-    "avg_citations": 114.52
+    "paper_count": 52303,
+    "total_citations": 6810697,
+    "avg_citations": 130.22
   },
   {
     "field_id": "https://openalex.org/fields/22",
     "field_name": "Engineering",
-    "paper_count": 47821,
-    "total_citations": 3532508,
-    "avg_citations": 73.87
+    "paper_count": 48642,
+    "total_citations": 3822298,
+    "avg_citations": 78.58
   },
   {
     "field_id": "https://openalex.org/fields/17",
     "field_name": "Computer Science",
-    "paper_count": 28515,
-    "total_citations": 1306597,
-    "avg_citations": 45.82
+    "paper_count": 29071,
+    "total_citations": 1547402,
+    "avg_citations": 53.23
   },
   {
     "field_id": "https://openalex.org/fields/11",
     "field_name": "Agricultural and Biological Sciences",
-    "paper_count": 27608,
-    "total_citations": 1482439,
-    "avg_citations": 53.7
+    "paper_count": 28019,
+    "total_citations": 1690935,
+    "avg_citations": 60.35
   },
   {
     "field_id": "https://openalex.org/fields/33",
     "field_name": "Social Sciences",
-    "paper_count": 27054,
-    "total_citations": 746674,
-    "avg_citations": 27.6
+    "paper_count": 27901,
+    "total_citations": 914014,
+    "avg_citations": 32.76
   },
   {
     "field_id": "https://openalex.org/fields/14",
     "field_name": "Business, Management and Accounting",
-    "paper_count": 18706,
-    "total_citations": 678013,
-    "avg_citations": 36.25
+    "paper_count": 19254,
+    "total_citations": 866102,
+    "avg_citations": 44.98
   },
   {
     "field_id": "https://openalex.org/fields/23",
     "field_name": "Environmental Science",
-    "paper_count": 18587,
-    "total_citations": 1394891,
-    "avg_citations": 75.05
+    "paper_count": 18792,
+    "total_citations": 1532153,
+    "avg_citations": 81.53
   },
   {
     "field_id": "https://openalex.org/fields/25",
     "field_name": "Materials Science",
-    "paper_count": 14318,
-    "total_citations": 592060,
-    "avg_citations": 41.35
+    "paper_count": 14414,
+    "total_citations": 638003,
+    "avg_citations": 44.26
   },
   {
     "field_id": "https://openalex.org/fields/20",
     "field_name": "Economics, Econometrics and Finance",
-    "paper_count": 11995,
-    "total_citations": 384075,
-    "avg_citations": 32.02
+    "paper_count": 12249,
+    "total_citations": 450550,
+    "avg_citations": 36.78
   },
   {
     "field_id": "https://openalex.org/fields/26",
     "field_name": "Mathematics",
-    "paper_count": 9563,
-    "total_citations": 157265,
-    "avg_citations": 16.45
+    "paper_count": 9720,
+    "total_citations": 181639,
+    "avg_citations": 18.69
   },
   {
     "field_id": "https://openalex.org/fields/31",
     "field_name": "Physics and Astronomy",
-    "paper_count": 7940,
-    "total_citations": 186543,
-    "avg_citations": 23.49
+    "paper_count": 8112,
+    "total_citations": 232042,
+    "avg_citations": 28.6
   },
   {
     "field_id": "https://openalex.org/fields/13",
     "field_name": "Biochemistry, Genetics and Molecular Biology",
-    "paper_count": 7179,
-    "total_citations": 189967,
-    "avg_citations": 26.46
+    "paper_count": 7254,
+    "total_citations": 215503,
+    "avg_citations": 29.71
   },
   {
     "field_id": "https://openalex.org/fields/21",
     "field_name": "Energy",
-    "paper_count": 6678,
-    "total_citations": 225712,
-    "avg_citations": 33.8
+    "paper_count": 6723,
+    "total_citations": 241109,
+    "avg_citations": 35.86
   },
   {
     "field_id": "https://openalex.org/fields/16",
     "field_name": "Chemistry",
-    "paper_count": 6285,
-    "total_citations": 114070,
-    "avg_citations": 18.15
+    "paper_count": 6353,
+    "total_citations": 124347,
+    "avg_citations": 19.57
   },
   {
     "field_id": "https://openalex.org/fields/12",
     "field_name": "Arts and Humanities",
-    "paper_count": 5880,
-    "total_citations": 24970,
-    "avg_citations": 4.25
+    "paper_count": 6096,
+    "total_citations": 33131,
+    "avg_citations": 5.43
   },
   {
     "field_id": "https://openalex.org/fields/19",
     "field_name": "Earth and Planetary Sciences",
-    "paper_count": 5420,
-    "total_citations": 81615,
-    "avg_citations": 15.06
+    "paper_count": 5518,
+    "total_citations": 92412,
+    "avg_citations": 16.75
   },
   {
     "field_id": "https://openalex.org/fields/18",
     "field_name": "Decision Sciences",
-    "paper_count": 5185,
-    "total_citations": 73183,
-    "avg_citations": 14.11
+    "paper_count": 5353,
+    "total_citations": 89589,
+    "avg_citations": 16.74
   },
   {
     "field_id": "https://openalex.org/fields/32",
     "field_name": "Psychology",
-    "paper_count": 4100,
-    "total_citations": 41995,
-    "avg_citations": 10.24
+    "paper_count": 4209,
+    "total_citations": 49473,
+    "avg_citations": 11.75
   },
   {
     "field_id": "https://openalex.org/fields/24",
     "field_name": "Immunology and Microbiology",
-    "paper_count": 3699,
-    "total_citations": 55033,
-    "avg_citations": 14.88
+    "paper_count": 3723,
+    "total_citations": 62266,
+    "avg_citations": 16.72
   },
   {
     "field_id": "https://openalex.org/fields/30",
     "field_name": "Pharmacology, Toxicology and Pharmaceutics",
-    "paper_count": 2708,
-    "total_citations": 34323,
-    "avg_citations": 12.67
+    "paper_count": 2754,
+    "total_citations": 38665,
+    "avg_citations": 14.04
   },
   {
     "field_id": "https://openalex.org/fields/15",
     "field_name": "Chemical Engineering",
-    "paper_count": 2686,
-    "total_citations": 82753,
-    "avg_citations": 30.81
+    "paper_count": 2698,
+    "total_citations": 86053,
+    "avg_citations": 31.9
   },
   {
     "field_id": "https://openalex.org/fields/36",
     "field_name": "Health Professions",
-    "paper_count": 2532,
-    "total_citations": 19521,
-    "avg_citations": 7.71
+    "paper_count": 2569,
+    "total_citations": 23109,
+    "avg_citations": 9.0
   },
   {
     "field_id": "https://openalex.org/fields/29",
     "field_name": "Nursing",
-    "paper_count": 1950,
-    "total_citations": 20897,
-    "avg_citations": 10.72
+    "paper_count": 1996,
+    "total_citations": 24386,
+    "avg_citations": 12.22
   },
   {
     "field_id": "https://openalex.org/fields/35",
     "field_name": "Dentistry",
-    "paper_count": 1946,
-    "total_citations": 7844,
-    "avg_citations": 4.03
+    "paper_count": 1969,
+    "total_citations": 9734,
+    "avg_citations": 4.94
   },
   {
     "field_id": "https://openalex.org/fields/28",
     "field_name": "Neuroscience",
-    "paper_count": 1010,
-    "total_citations": 12609,
-    "avg_citations": 12.48
+    "paper_count": 1016,
+    "total_citations": 13734,
+    "avg_citations": 13.52
   },
   {
     "field_id": "https://openalex.org/fields/34",
     "field_name": "Veterinary",
     "paper_count": 68,
-    "total_citations": 442,
-    "avg_citations": 6.5
+    "total_citations": 504,
+    "avg_citations": 7.41
   }
 ]

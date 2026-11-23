@@ -3,7 +3,7 @@
     "id": "https://openalex.org/W2104549677",
     "title": "A global reference for human genetic variation",
     "year": 2015,
-    "cited_by_count": 18170,
+    "cited_by_count": 20738,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -20,7 +20,7 @@
         ]
       },
       {
-        "name": "Gonçalo R. Abecasis",
+        "name": "Gonçalo Rocha Abecasis",
         "institutions": [
           "University of Michigan",
           "Vertex Pharmaceuticals (United States)"
@@ -46,7 +46,7 @@
     "id": "https://openalex.org/W2548000951",
     "title": "The global burden of women’s cancers: a grand challenge in global health",
     "year": 2016,
-    "cited_by_count": 13519,
+    "cited_by_count": 15866,
     "field": "Medicine",
     "authors": [
       {
@@ -84,31 +84,41 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2477872031",
-    "title": "Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)",
-    "year": 2002,
-    "cited_by_count": 12205,
-    "field": "Medicine",
+    "id": "https://openalex.org/W2888532099",
+    "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
+    "year": 2018,
+    "cited_by_count": 13109,
+    "field": "Computer Science",
     "authors": [
       {
-        "name": "Scott M. Grundy",
-        "institutions": []
+        "name": "Adrian M. Price-Whelan",
+        "institutions": [
+          "Princeton University"
+        ]
       },
       {
-        "name": "Diane M. Becker",
-        "institutions": []
+        "name": "Brigitta Sipőcz",
+        "institutions": [
+          "University of Cambridge"
+        ]
       },
       {
-        "name": "Luther T. Clark",
-        "institutions": []
+        "name": "Hans Moritz Günther",
+        "institutions": [
+          "Massachusetts Institute of Technology"
+        ]
       },
       {
-        "name": "Richard Cooper",
-        "institutions": []
+        "name": "Pey Lian Lim",
+        "institutions": [
+          "Space Telescope Science Institute"
+        ]
       },
       {
-        "name": "Margo A. Denke",
-        "institutions": []
+        "name": "Steven M. Crawford",
+        "institutions": [
+          "South African Astronomical Observatory"
+        ]
       }
     ]
   },
@@ -116,7 +126,7 @@
     "id": "https://openalex.org/W2951464304",
     "title": "UFBoot2: Improving the Ultrafast Bootstrap Approximation",
     "year": 2017,
-    "cited_by_count": 10988,
+    "cited_by_count": 12311,
     "field": "Biochemistry, Genetics and Molecular Biology",
     "authors": [
       {
@@ -160,10 +170,39 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2477872031",
+    "title": "Detection, evaluation, and treatment of high blood cholesterol in adults (Adult Treatment Panel III)",
+    "year": 2002,
+    "cited_by_count": 12225,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Scott M. Grundy",
+        "institutions": []
+      },
+      {
+        "name": "Diane M. Becker",
+        "institutions": []
+      },
+      {
+        "name": "Luther T. Clark",
+        "institutions": []
+      },
+      {
+        "name": "Richard Cooper",
+        "institutions": []
+      },
+      {
+        "name": "Margo A. Denke",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2131222241",
     "title": "The global distribution and burden of dengue",
     "year": 2013,
-    "cited_by_count": 10314,
+    "cited_by_count": 11817,
     "field": "Medicine",
     "authors": [
       {
@@ -200,49 +239,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2888532099",
-    "title": "The Astropy Project: Building an Open-science Project and Status of the v2.0 Core Package *",
-    "year": 2018,
-    "cited_by_count": 9551,
-    "field": "Computer Science",
-    "authors": [
-      {
-        "name": "Adrian M. Price-Whelan",
-        "institutions": [
-          "Princeton University"
-        ]
-      },
-      {
-        "name": "Brigitta Sipőcz",
-        "institutions": [
-          "University of Cambridge"
-        ]
-      },
-      {
-        "name": "Hans Moritz Günther",
-        "institutions": [
-          "Massachusetts Institute of Technology"
-        ]
-      },
-      {
-        "name": "Pey Lian Lim",
-        "institutions": [
-          "Space Telescope Science Institute"
-        ]
-      },
-      {
-        "name": "Steven M. Crawford",
-        "institutions": [
-          "South African Astronomical Observatory"
-        ]
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2757803490",
     "title": "Advanced capabilities for materials modelling with Q uantum ESPRESSO",
     "year": 2017,
-    "cited_by_count": 9213,
+    "cited_by_count": 11371,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -280,10 +280,39 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2196906371",
+    "title": "Heart Disease and Stroke Statistics—2016 Update: A Report From the American Heart Association",
+    "year": 2015,
+    "cited_by_count": 8410,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Dariush Mozaffarian",
+        "institutions": []
+      },
+      {
+        "name": "Emelia J. Benjamin",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": []
+      },
+      {
+        "name": "Donna K. Arnett",
+        "institutions": []
+      },
+      {
+        "name": "Michael Joseph Blaha",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2012154384",
-    "title": "Heart Disease and Stroke Statistics—2012 Update",
+    "title": "Heart Disease and Stroke Statistics—2012 Update: A Report From the American Heart Association",
     "year": 2011,
-    "cited_by_count": 7432,
+    "cited_by_count": 8052,
     "field": "Medicine",
     "authors": [
       {
@@ -311,103 +340,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2019071303",
-    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults",
-    "year": 2013,
-    "cited_by_count": 7107,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Neil J. Stone",
-        "institutions": []
-      },
-      {
-        "name": "Jennifer G. Robinson",
-        "institutions": []
-      },
-      {
-        "name": "Alice Hinda Lichtenstein",
-        "institutions": []
-      },
-      {
-        "name": "C. Noel Bairey Merz",
-        "institutions": []
-      },
-      {
-        "name": "Conrad B. Blum",
-        "institutions": []
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W2196906371",
-    "title": "Heart Disease and Stroke Statistics—2016 Update",
-    "year": 2015,
-    "cited_by_count": 6922,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Dariush Mozaffarian",
-        "institutions": []
-      },
-      {
-        "name": "Emelia J. Benjamin",
-        "institutions": []
-      },
-      {
-        "name": "Alan S. Go",
-        "institutions": []
-      },
-      {
-        "name": "Donna K. Arnett",
-        "institutions": []
-      },
-      {
-        "name": "Michael Joseph Blaha",
-        "institutions": []
-      }
-    ]
-  },
-  {
-    "id": "https://openalex.org/W1970516435",
-    "title": "Heart Disease and Stroke Statistics—2011 Update",
-    "year": 2010,
-    "cited_by_count": 6708,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Veronique Lee Roger",
-        "institutions": []
-      },
-      {
-        "name": "Alan S. Go",
-        "institutions": [
-          "American Heart Association"
-        ]
-      },
-      {
-        "name": "Donald M. Lloyd‐Jones",
-        "institutions": [
-          "General Department of Preventive Medicine"
-        ]
-      },
-      {
-        "name": "Robert J. Adams",
-        "institutions": [
-          "American Heart Association"
-        ]
-      },
-      {
-        "name": "Jarett D. Berry",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2098082628",
     "title": "Global, regional, and national incidence, prevalence, and years lived with disability for 301 acute and chronic diseases and injuries in 188 countries, 1990–2013: a systematic analysis for the Global Burden of Disease Study 2013",
     "year": 2015,
-    "cited_by_count": 6573,
+    "cited_by_count": 7785,
     "field": "Medicine",
     "authors": [
       {
@@ -443,10 +379,120 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2993259418",
+    "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
+    "year": 2020,
+    "cited_by_count": 7596,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Wytske Johanna Fokkens",
+        "institutions": [
+          "Amsterdam UMC Location University of Amsterdam",
+          "Amsterdam UMC"
+        ]
+      },
+      {
+        "name": "Valerie Joan Lund",
+        "institutions": [
+          "Royal National Throat Nose and Ear Hospital",
+          "University College London"
+        ]
+      },
+      {
+        "name": "Claire L Hopkins",
+        "institutions": [
+          "Guy's Hospital",
+          "St Thomas' Hospital",
+          "Guy's and St Thomas' NHS Foundation Trust"
+        ]
+      },
+      {
+        "name": "Peter William Hellings",
+        "institutions": [
+          "Ghent University Hospital",
+          "Amsterdam UMC Location University of Amsterdam",
+          "Amsterdam UMC",
+          "KU Leuven"
+        ]
+      },
+      {
+        "name": "Robert C. Kern",
+        "institutions": [
+          "Northwestern University"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W1970516435",
+    "title": "Heart Disease and Stroke Statistics—2011 Update: A Report From the American Heart Association",
+    "year": 2010,
+    "cited_by_count": 7593,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Veronique Lee Roger",
+        "institutions": []
+      },
+      {
+        "name": "Alan S. Go",
+        "institutions": [
+          "American Heart Association"
+        ]
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Robert J. Adams",
+        "institutions": [
+          "American Heart Association"
+        ]
+      },
+      {
+        "name": "Jarett D. Berry",
+        "institutions": []
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2019071303",
+    "title": "2013 ACC/AHA Guideline on the Treatment of Blood Cholesterol to Reduce Atherosclerotic Cardiovascular Risk in Adults: A Report of the American College of Cardiology/American Heart Association Task Force on Practice Guidelines",
+    "year": 2013,
+    "cited_by_count": 7582,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "Neil J. Stone",
+        "institutions": []
+      },
+      {
+        "name": "Jennifer G. Robinson",
+        "institutions": []
+      },
+      {
+        "name": "Alice Hinda Lichtenstein",
+        "institutions": []
+      },
+      {
+        "name": "C. Noel Bairey Merz",
+        "institutions": []
+      },
+      {
+        "name": "Conrad B. Blum",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2560322684",
-    "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015",
+    "title": "Global, Regional, and National Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, and Disability-Adjusted Life-years for 32 Cancer Groups, 1990 to 2015: A Systematic Analysis for the Global Burden of Disease Study",
     "year": 2016,
-    "cited_by_count": 6296,
+    "cited_by_count": 6917,
     "field": "Medicine",
     "authors": [
       {
@@ -485,56 +531,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2993259418",
-    "title": "European Position Paper on Rhinosinusitis and Nasal Polyps 2020",
-    "year": 2020,
-    "cited_by_count": 6290,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Wytske Johanna Fokkens",
-        "institutions": [
-          "Amsterdam UMC Location University of Amsterdam",
-          "Amsterdam University Medical Centers"
-        ]
-      },
-      {
-        "name": "Valerie Joan Lund",
-        "institutions": [
-          "Royal National Throat Nose and Ear Hospital",
-          "University College London"
-        ]
-      },
-      {
-        "name": "Claire L Hopkins",
-        "institutions": [
-          "Guy's Hospital",
-          "St Thomas' Hospital",
-          "Guy's and St Thomas' NHS Foundation Trust"
-        ]
-      },
-      {
-        "name": "Peter William Hellings",
-        "institutions": [
-          "Ghent University Hospital",
-          "Amsterdam UMC Location University of Amsterdam",
-          "Amsterdam University Medical Centers",
-          "KU Leuven"
-        ]
-      },
-      {
-        "name": "Robert C. Kern",
-        "institutions": [
-          "Northwestern University"
-        ]
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2614781785",
-    "title": "Heart Disease and Stroke Statistics—2010 Update",
+    "title": "Heart Disease and Stroke Statistics—2010 Update: A Report From the American Heart Association",
     "year": 2009,
-    "cited_by_count": 5775,
+    "cited_by_count": 6344,
     "field": "Medicine",
     "authors": [
       {
@@ -564,69 +564,15 @@
     ]
   },
   {
-    "id": "https://openalex.org/W3010930696",
-    "title": "Hydroxychloroquine and azithromycin as a treatment of COVID-19: results of an open-label non-randomized clinical trial",
-    "year": 2020,
-    "cited_by_count": 5388,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "Philippe Gautret",
-        "institutions": [
-          "Aix-Marseille Université",
-          "Méditerranée Infection Foundation",
-          "Institut de Recherche pour le Développement",
-          "Risques Infectieux Tropicaux Microorganismes EmergentS"
-        ]
-      },
-      {
-        "name": "Jean‐Christophe Lagier",
-        "institutions": [
-          "Aix-Marseille Université",
-          "Méditerranée Infection Foundation",
-          "Institut de Recherche pour le Développement",
-          "Microbes Evolution Phylogénie et Infections"
-        ]
-      },
-      {
-        "name": "Philippe Parola",
-        "institutions": [
-          "Aix-Marseille Université",
-          "Méditerranée Infection Foundation",
-          "Institut de Recherche pour le Développement",
-          "Risques Infectieux Tropicaux Microorganismes EmergentS"
-        ]
-      },
-      {
-        "name": "Van Thuan Hoang",
-        "institutions": [
-          "Aix-Marseille Université",
-          "Méditerranée Infection Foundation",
-          "Thai Binh University of Medicine and Pharmacy",
-          "Institut de Recherche pour le Développement",
-          "Risques Infectieux Tropicaux Microorganismes EmergentS"
-        ]
-      },
-      {
-        "name": "Line Meddeb",
-        "institutions": [
-          "Méditerranée Infection Foundation"
-        ]
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W2000949542",
-    "title": "Heart Disease and Stroke Statistics—2014 Update",
+    "title": "Heart Disease and Stroke Statistics—2014 Update: A Report From the American Heart Association",
     "year": 2013,
-    "cited_by_count": 5255,
+    "cited_by_count": 6220,
     "field": "Medicine",
     "authors": [
       {
         "name": "Alan S. Go",
-        "institutions": [
-          "Patient-Centered Outcomes Research Institute"
-        ]
+        "institutions": []
       },
       {
         "name": "Dariush Mozaffarian",
@@ -634,9 +580,7 @@
       },
       {
         "name": "Veronique Lee Roger",
-        "institutions": [
-          "Patient-Centered Outcomes Research Institute"
-        ]
+        "institutions": []
       },
       {
         "name": "Emelia J. Benjamin",
@@ -644,9 +588,7 @@
       },
       {
         "name": "Jarett D. Berry",
-        "institutions": [
-          "University of California, San Francisco"
-        ]
+        "institutions": []
       }
     ]
   },
@@ -654,7 +596,7 @@
     "id": "https://openalex.org/W2164132449",
     "title": "Allergic Rhinitis and its Impact on Asthma (ARIA) 2008*",
     "year": 2008,
-    "cited_by_count": 5009,
+    "cited_by_count": 5662,
     "field": "Medicine",
     "authors": [
       {
@@ -671,9 +613,7 @@
       {
         "name": "Álvaro Augusto Cruz",
         "institutions": [
-          "Universidade Federal da Bahia",
-          "Inserm",
-          "Hôpital Arnaud de Villeneuve"
+          "Universidade Federal da Bahia"
         ]
       },
       {
@@ -691,41 +631,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W2168536722",
-    "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
-    "year": 2013,
-    "cited_by_count": 4994,
-    "field": "Medicine",
-    "authors": [
-      {
-        "name": "David Calvin Goff",
-        "institutions": []
-      },
-      {
-        "name": "Donald M. Lloyd‐Jones",
-        "institutions": [
-          "General Department of Preventive Medicine"
-        ]
-      },
-      {
-        "name": "Glen C. Bennett",
-        "institutions": []
-      },
-      {
-        "name": "Sean Coady",
-        "institutions": []
-      },
-      {
-        "name": "Ralph B. D’Agostino",
-        "institutions": []
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W1990869665",
     "title": "Recent developments in Geant4",
     "year": 2016,
-    "cited_by_count": 4493,
+    "cited_by_count": 5498,
     "field": "Physics and Astronomy",
     "authors": [
       {
@@ -762,10 +671,41 @@
     ]
   },
   {
+    "id": "https://openalex.org/W2168536722",
+    "title": "2013 ACC/AHA Guideline on the Assessment of Cardiovascular Risk",
+    "year": 2013,
+    "cited_by_count": 5342,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "David Calvin Goff",
+        "institutions": []
+      },
+      {
+        "name": "Donald M. Lloyd‐Jones",
+        "institutions": [
+          "General Department of Preventive Medicine"
+        ]
+      },
+      {
+        "name": "Glen C. Bennett",
+        "institutions": []
+      },
+      {
+        "name": "Sean Coady",
+        "institutions": []
+      },
+      {
+        "name": "Ralph B. D’Agostino",
+        "institutions": []
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2275877493",
     "title": "Comprehensive genomic characterization of squamous cell lung cancers",
     "year": 2012,
-    "cited_by_count": 4016,
+    "cited_by_count": 4410,
     "field": "Medicine",
     "authors": [
       {
@@ -815,7 +755,7 @@
     "id": "https://openalex.org/W2145840889",
     "title": "Global diversity and geography of soil fungi",
     "year": 2014,
-    "cited_by_count": 3845,
+    "cited_by_count": 4273,
     "field": "Agricultural and Biological Sciences",
     "authors": [
       {
@@ -853,41 +793,10 @@
     ]
   },
   {
-    "id": "https://openalex.org/W1458577565",
-    "title": "A review of recent developments in natural fibre composites and their mechanical performance",
-    "year": 2015,
-    "cited_by_count": 3714,
-    "field": "Materials Science",
-    "authors": [
-      {
-        "name": "Kim Louise Pickering",
-        "institutions": [
-          "University of Waikato"
-        ]
-      },
-      {
-        "name": "M.G. Aruan Efendy",
-        "institutions": [
-          "Universiti Teknologi MARA System",
-          "University of Waikato",
-          "Universiti Teknologi MARA"
-        ]
-      },
-      {
-        "name": "T.M. Le",
-        "institutions": [
-          "Trường Đại học Khoa học và Công nghệ Hà Nội",
-          "University of Waikato",
-          "Hanoi University of Science and Technology"
-        ]
-      }
-    ]
-  },
-  {
     "id": "https://openalex.org/W3110220146",
     "title": "Causes of blindness and vision impairment in 2020 and trends over 30 years, and prevalence of avoidable blindness in relation to VISION 2020: the Right to Sight: an analysis for the Global Burden of Disease Study",
     "year": 2020,
-    "cited_by_count": 3475,
+    "cited_by_count": 4211,
     "field": "Medicine",
     "authors": [
       {
@@ -923,10 +832,41 @@
     ]
   },
   {
+    "id": "https://openalex.org/W1458577565",
+    "title": "A review of recent developments in natural fibre composites and their mechanical performance",
+    "year": 2015,
+    "cited_by_count": 4076,
+    "field": "Materials Science",
+    "authors": [
+      {
+        "name": "Kim Louise Pickering",
+        "institutions": [
+          "University of Waikato"
+        ]
+      },
+      {
+        "name": "M.G. Aruan Efendy",
+        "institutions": [
+          "Universiti Teknologi MARA System",
+          "University of Waikato",
+          "Universiti Teknologi MARA"
+        ]
+      },
+      {
+        "name": "T.M. Le",
+        "institutions": [
+          "Trường Đại học Khoa học và Công nghệ Hà Nội",
+          "University of Waikato",
+          "Hanoi University of Science and Technology"
+        ]
+      }
+    ]
+  },
+  {
     "id": "https://openalex.org/W2130483595",
-    "title": "Forecasting the Future of Cardiovascular Disease in the United States",
+    "title": "Forecasting the Future of Cardiovascular Disease in the United States: A Policy Statement From the American Heart Association",
     "year": 2011,
-    "cited_by_count": 3304,
+    "cited_by_count": 3702,
     "field": "Medicine",
     "authors": [
       {
@@ -955,6 +895,57 @@
         "name": "Kathleen Dracup",
         "institutions": [
           "American Heart Association"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "https://openalex.org/W2901519529",
+    "title": "Global, regional, and national burden of Parkinson's disease, 1990–2016: a systematic analysis for the Global Burden of Disease Study 2016",
+    "year": 2018,
+    "cited_by_count": 3611,
+    "field": "Medicine",
+    "authors": [
+      {
+        "name": "E. Ray Dorsey",
+        "institutions": [
+          "University of Rochester"
+        ]
+      },
+      {
+        "name": "Alexis Elbaz",
+        "institutions": [
+          "Inserm",
+          "Centre de recherche en Epidémiologie et Santé des Populations",
+          "Hôpital Paul-Brousse"
+        ]
+      },
+      {
+        "name": "Emma Nichols",
+        "institutions": [
+          "Xiamen University Malaysia"
+        ]
+      },
+      {
+        "name": "Nooshin Abbasi",
+        "institutions": []
+      },
+      {
+        "name": "Foad Abd-Allah",
+        "institutions": [
+          "Seoul National University",
+          "Jordan University of Science and Technology",
+          "Universidade do Porto",
+          "University of Washington",
+          "University Kebangsaan Malaysia Medical Centre",
+          "Institute for Health Metrics and Evaluation",
+          "National Cerebral and Cardiovascular Center",
+          "Jigjiga University",
+          "Xiamen University Malaysia",
+          "Rede de Química e Tecnologia",
+          "LAQV Requimte",
+          "University of Bari Aldo Moro",
+          "National University of Malaysia"
         ]
       }
     ]
